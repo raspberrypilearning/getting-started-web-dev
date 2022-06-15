@@ -6,6 +6,12 @@ This guide covers using HTML and CSS to develop web pages and is designed to be 
 <span style="color: #0faeb0">**Web development**</span> is the use of HTML, CSS and Javascript to create web pages and web sites. It includes visual design, web site layout, design for accessibility and usability, the creation of animation and use of code to create interactivity. 
 </p>
 
+### Why learn web development?
+
+Creating web pages and web sites is a brilliant way for young people to be creative and share their passions. 
+
+Learning about web technologies is useful for a range of jobs including Web Designers and Front End Developers. It's also used by entrepreneurs who want to make their own unique web site to communicate their business or brand.
+
 ### Introduction to Web Development path
 
 The [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro) covers the development of single web pages using HTML and CSS. Future paths will cover more topics including using JavaScript to create dynamic web pages. 
@@ -16,21 +22,3 @@ What young people should do before starting Web development:
 + We recommend that creators have basic typing skills before starting web development.
 
 The [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro) path can be completed before starting Python coding with [Intro to Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro) or [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro)
-
---- no-print ---
---- task ---
-### Try it
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-Description of what to do or think about when looking at the example.
-</div>
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
-</div>
-</div>
---- /task ---
---- /no-print ---
-
---- print-only ---
-![Completed project](images/showcase_static.png)
---- /print-only ---
