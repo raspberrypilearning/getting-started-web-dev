@@ -14,6 +14,10 @@ This is a small example of a web page:
 
 Try changing the text between the `<h1>` and `</h1>` start and end tags. 'h1' is a level one heading. 
 
+### Use of semantic HTML tags
+The [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses modern best practices for HTML including the use of the 'semantic' tags `<header>`, `<main>`, `<section>` and `<footer>` which provide more information to web browsers and screen readers about the purpose of the content.
 
+## Starter projects
+Each project include a starter template so that web pages will follow best practices and young people can focus on the more creative parts of web development. 
 
 
