@@ -1,22 +1,48 @@
-## Upgrade your project
+## Structure your page
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Summary or upgrade project task
-</div>
-<div>
-![](images/image.png){:width="300px"}
-</div>
-</div>
+![A strip of 3 images showing different sets of 3 sections and different colour palettes](images/example-layouts.png)
 
---- collapse ---
+[[[overall-page-structure]]]
 
----
-title: Completed project
----
+[[[full-width-section]]]
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+[[[side-by-side-section]]]
 
---- /collapse ---
+[[[wrapped-regular-width]]]
 
---- save ---
+[[[three-text-tiles]]]
+
+[[[web-large-text-tiles]]]
+
+[[[text-image-text]]]
+
+[[[wrapped-wide-narrow]]]
+
+[[[web-wrap-gap]]]
+
+[[[full-width-quote]]]
+
+[[[using-rem]]]
+
+[[[web-x-y-centering]]]
+
+[[[padding-margins]]]
+
+Add more style to any elements on your web page:
+
+![A strip of examples with gradients, dashed borders and rounded corners.](images/borders-corners.png)
+
+[[[rounded-corners]]]
+
+[[[web-borders]]]
+
+[[[web-box-shadow]]]
+
+![A strip of gradients using different colour palettes.](images/gradients.png)
+
+[[[add-a-gradient]]]
+
+You can create your own class to make a new style:
+
+[[[web-add-class]]]
+
