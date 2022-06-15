@@ -1,32 +1,38 @@
 ## Structure your page
 
-![A strip of 3 images showing different sets of 3 sections and different colour palettes](images/example-layouts.png)
+![A screenshot showing the structure of a webpage. A 1 is placed over the header area at the top. A 2 is placed to show the main content of the page. A 3 is placed to show a section of content. A 4 is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
+
+[[[web-add-title-head]]]
 
 [[[overall-page-structure]]]
 
+![A strip of 3 images showing different sets of 3 sections and different colour palettes](images/example-layouts.png)
+
 [[[full-width-section]]]
+
+[[[full-width-quote]]]
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Web pages can be viewed on many different devices and should be <span style="color: #0faeb0">**responsive**</span> to each device. This means that if a user views your site on a mobile phone, it should respond to a smaller screen and if they view it on a desktop PC it should respond to a larger screen. 
+</p>
+
+[[[using-rem]]]
+
+CSS can also be used to responsively change the layout of the page: 
 
 [[[side-by-side-section]]]
 
 [[[wrapped-regular-width]]]
 
-[[[three-text-tiles]]]
+[[[wrapped-wide-narrow]]]
 
 [[[web-large-text-tiles]]]
 
 [[[text-image-text]]]
 
-[[[wrapped-wide-narrow]]]
-
 [[[web-wrap-gap]]]
 
-[[[full-width-quote]]]
-
-[[[using-rem]]]
-
-[[[web-x-y-centering]]]
-
-[[[padding-margins]]]
+[[[three-text-tiles]]]
 
 Add more style to any elements on your web page:
 
@@ -41,6 +47,12 @@ Add more style to any elements on your web page:
 ![A strip of gradients using different colour palettes.](images/gradients.png)
 
 [[[add-a-gradient]]]
+
+Align and space your content to improve the look of your web page:
+
+[[[web-x-y-centering]]]
+
+[[[padding-margins]]]
 
 You can create your own class to make a new style:
 

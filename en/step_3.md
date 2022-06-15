@@ -29,3 +29,6 @@ The style sheets use **CSS variables** to define colours and fonts so that they 
 
 ### Responsive design
 Responsive web page and web sites adapt to screens of different shapes and sizes including mobile phones. Our projects follow modern best practices including the use of the REM unit for sizes (this means that sizes will be based on a user's preferred font size settings) and `flex` content which wraps when their isn't enough space.
+
+### Accessible design
+The included style sheets have all been checked for high colour contrast and creators are encouraged to check colour constrast when making their own choices. 
