@@ -22,6 +22,8 @@ You can add helpful comments to both your HTML and CSS files:
 
 Where possible view your published web page on a number of different devices such as a laptop, phone or tablet to view your web page from the lens of many different visitors. 
 
+**Tip:** If you do not have access to other devices, you can drag the bar between the text editor and your web page output to make the web page wider or narrower.
+
 [[[trinket-publish-project]]]
 
 Run your web page through an accessibility checker to make sure it can be viewed by people with disabilities.

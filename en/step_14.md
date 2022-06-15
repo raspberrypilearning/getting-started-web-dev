@@ -10,13 +10,15 @@
 
 + A **domain name** is the part of a web address after `http://` or `https://`, for example `projects.raspberrypi.org`.
 
++ A **web developer** or **front end developer** is someone who creates websites using HTML, CSS and JavaScript. 
+
 ### HTML
 
 + The **Hypertext Markup Language (HTML)** language is used to structure a web page so that a web browser (or screen reader) knows what to do with the content.
 
 + HTML uses **tags** to 'mark up' content so that a web browser or screen reader knows how to present it. Tags start and end with angle brackets and most have a matching end tag. For example, `<h1>` and `</h1>` tags are used to start and end a level one heading. 
 
-+ The different parts of an HTML page are called elements and include tags. `<h1>The Heading</h1>` is a level one heading element.
++ The different parts of an HTML page are called **elements** and include tags. `<h1>The Heading</h1>` is a level one heading element.
 
 + HTML elements can have **attributes** which provide additional information. This example, `<img src="happy.png" alt="A happy face">` has a `src` attribute with a value for the image name and a `alt` attribute with a value for the alternative text to be used if an image cannot be viewed. 
 

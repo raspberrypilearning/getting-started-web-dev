@@ -2,6 +2,8 @@
 
 The [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro) uses the Trinket online editor so there is no software to install. 
 
+**Tip:** If you will be using Trinket in a school, library or other place that has internet filtering then check you are able to access Trinket. See the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} for more information. 
+
 In this step you will add HTML and CSS using the same approach as in our web projects. 
 
 --- task ---
@@ -50,18 +52,24 @@ Now click on the `style.css` file tab in the Trinket editor. The file will be em
 
 Add the following CSS **rule**:
 
-
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
 line_number_start: 15
 line_highlights: 16
 ---
 h1 {
     color: teal;
+    text-align: center;
 }
 --- /code ---
+
+--- /task ---
+
+--- task ---
+
+**Test:** Check that your heading has changed colour and is centered. 
 
 --- /task ---
