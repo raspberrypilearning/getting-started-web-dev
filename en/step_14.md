@@ -22,6 +22,8 @@
 
 + HTML elements can have **attributes** which provide additional information. This example, `<img src="happy.png" alt="A happy face">` has a `src` attribute with a value for the image name and a `alt` attribute with a value for the alternative text to be used if an image cannot be viewed. 
 
++ Elements can be **inline** or **block** level elements. An **inline** element is an element that is within a phrase. For example `<strong>` creates a bold piece of text. A **block** element is a whole block of HTML, like a `<section>` or a `<blockquote>`.
+
 
 ### CSS
 
@@ -36,3 +38,7 @@
 + A CSS **class** is used to apply rules to HTML elements that have that class applied. For example `<section class="primary">` applies the primary class to a section element which means that the properties defined in rules with the `.primary` selector will be used. 
 
 + A CSS file is often called a **style sheet**. 
+
++ CSS can use **variables** to hold data about things that can change, like the font and font colours. Using variables makes it much quicker to change the styling of a whole page because you just change what is being held by the variable. 
+
++ CSS allows you to create **animations**. This is where the style of an element changes from one style to another over a time period. Cool effects, like pulsing, can be made using CSS animations. 
