@@ -16,7 +16,7 @@ Learning about web technologies is useful for a range of jobs, including web des
 
 The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path covers the development of single webpages using HTML and CSS. Future paths will cover more topics, including using JavaScript to create dynamic webpages. 
 
-What young people should do before starting web development:
+What young people should do before starting the 'Intro to web' path:
 
 + We recommend our [Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch) [paths](https://projects.raspberrypi.org/en/paths) for young creators without previous coding experience. Older beginners (from around age 12) could start with web development.  
 + We recommend that creators have basic typing skills before starting web development.
