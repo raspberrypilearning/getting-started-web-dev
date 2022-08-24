@@ -28,7 +28,7 @@ Creators will also have the option to create their own colour palettes and choos
 The style sheets use **CSS variables** to define colours and fonts so that they can easily be changed in one place. 
 
 ### Responsive design
-Responsive webpages and websites adapt to screens of different shapes and sizes including mobile phones. Our projects follow modern best practices including the use of the REM unit for sizes (this means that sizes will be based on a user's preferred font size settings) and `flex` content which wraps when there isn't enough space.
+Responsive webpages and websites adapt to screens of different shapes and sizes including mobile phones. These projects follow modern best practices including the use of the REM unit for sizes (this means that sizes will be based on a user's preferred font size settings) and `flex` content, which wraps when there isn't enough space.
 
 ### Accessible design
-The included style sheets have all been checked for high colour contrast and creators are encouraged to check colour contrast when making their own choices. 
+The included style sheets have all been checked for high colour contrast and creators are encouraged to check colour contrast when they make their own choices. 
