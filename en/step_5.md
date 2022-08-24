@@ -1,8 +1,8 @@
 ## Use colour palettes
 
-When designing your webpage, it is a good idea to use a colour palette.
+When you design a webpage, it is a good idea to use a colour palette.
 
-Colour palettes help you make a webpage looks appealing with colours that work well together.
+Colour palettes help you make a webpage look appealing with colours that work well together.
 
 [[[web-colour-palette-variables]]]
 
