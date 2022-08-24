@@ -3,7 +3,7 @@
 This guide covers using HTML and CSS to develop webpages and is designed to be used with our [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path of projects. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Web development**</span> is the use of HTML, CSS, and JavaScript to create webpages and websites. It includes visual design, website layout, design for accessibility and usability, the creation of animation, and use of code to create interactivity. 
+<span style="color: #0faeb0">**Web development**</span> is the use of HTML, CSS, and JavaScript to create webpages and websites. It includes visual design, website layout, design for accessibility and usability, the creation of animation, and use of code to create interactive webpages. 
 </p>
 
 ### Why learn web development?
