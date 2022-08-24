@@ -1,8 +1,8 @@
-## Debug your web page
+## Debug your webpage
 
-Debugging is finding and fixing mistakes in your code that are called bugs.
+Debugging is a process to find and fix mistakes in the code that are called bugs.
 
-It’s easier to identify issues if you make one change at a time, it might take a few experiments for your project to look the way that you planned.
+It’s easier to identify issues if you make one change at a time. It might take a few experiments for your project to look the way that you planned.
 
 **Tip:** Add comments to your code. Use everyday language to explain what the code does. Sometimes, this will make you realise that your code does not actually do what you want it to do! Comments are useful for when you want to understand your code later, and they help other people to understand your projects.
 
