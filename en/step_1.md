@@ -19,6 +19,6 @@ The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path 
 What young people should do before starting the 'Intro to web' path:
 
 + We recommend our [Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch) [paths](https://projects.raspberrypi.org/en/paths) for young creators without previous coding experience. Older beginners (from around age 12) could start with the web development path.  
-+ We recommend that creators have basic typing skills before starting the web development path.
++ We recommend that all creators have basic typing skills before starting the web development path.
 
 The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path can be completed before starting Python coding with [Intro to Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro) or [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path. 
