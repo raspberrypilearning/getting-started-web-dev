@@ -16,13 +16,13 @@ Use an emoji as an image.
 
 [[[huge-emoji]]]
 
-Add a background image
+Add a background image.
 
 [[[web-background-image]]]
 
 [[[add-transparency]]]
 
-**Tip:** You can style your images with rounded corners or borders
+**Tip:** You can style your images with rounded corners or borders.
 
 ![Examples of images with dashed or solid borders, drop shadow, and rounded corners.](images/image-borders.png)
 
@@ -32,7 +32,7 @@ Add a background image
 
 [[[web-box-shadow]]]
 
-You can create your own class to make a new style
+You can create your own class to make a new style.
 
 [[[web-add-class]]]
 
