@@ -15,7 +15,7 @@ It's a lot of work to create a complete CSS style sheet with styles that work we
 
 The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses a style sheet that follows best practices and includes styles that are interesting and relevant to young people creating their first web projects. 
 
-Creators have the opportunity to adapt and add to the provided styles. This approach gets them creating interesting webpages quickly.
+Creators have the opportunity to adapt and add to the provided styles. This approach helps them to create interesting webpages quickly.
 
 ### Included colour and font palettes
 Designing colour palettes and fonts that work well together is another time-consuming and skilled task. The three Explore projects include appropriate fonts and colour palettes that creators can customise.
