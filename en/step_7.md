@@ -1,6 +1,6 @@
 ## Add fonts and text elements
 
-Choose fonts to use on your webpage:
+Choose fonts to use on your webpage.
 
 ![All of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
 
@@ -10,11 +10,11 @@ Choose fonts to use on your webpage:
 
 [[[google-fonts]]]
 
-You can use placeholder text while you work on your layout:
+You can use placeholder text while you work on your layout.
 
 [[[add-placeholder-text]]]
 
-Insert text elements:
+Insert text elements.
 
 ![An example strip containing an ordered list, an unordered list, and a quote.](images/list-quote-example.png)
 
@@ -26,7 +26,7 @@ Insert text elements:
 
 [[[full-width-quote]]]
 
-Style your text
+Style your text:
 
 ![A list with bold text in different colours.](images/strong-example.png)
 
@@ -38,6 +38,6 @@ Style your text
 
 [[[web-animate-span]]]
 
-You can create your own class to make a new style
+You can create your own class to make a new style.
 
 [[[web-add-class]]]
