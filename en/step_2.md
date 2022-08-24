@@ -6,7 +6,7 @@ HTML is the language that is used to write webpages.
 <span style="color: #0faeb0">**Hypertext Markup Language (HTML)**</span> is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content. 
 </p>
 
-HTML defines a set of **tags** which start and end with angle brackets and are used to 'mark up' webpage content. 
+HTML defines a set of **tags** that start and end with angle brackets and are used to 'mark up' webpage content. 
 
 This is a small example of a webpage: 
 
