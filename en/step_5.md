@@ -14,7 +14,7 @@ You can use or personalise the web development starter project colour palettes.
 
 [[[web-colour-palette]]]
 
-Create a colour palette from an image.
+You can create a colour palette from an image.
 
 ![Examples of colour palettes from images.](images/image-palette.png)
 
@@ -22,7 +22,7 @@ Create a colour palette from an image.
 
 [[[colours-from-image]]]
 
-Customise colour palettes for style and accessibility.
+You can customise colour palettes for style and accessibility.
 
 ![Examples of one secondary palette with bad contrast and one with good contrast.](images/contrast-examples.png)
 
@@ -30,7 +30,7 @@ Customise colour palettes for style and accessibility.
 
 [[[add-colour-variables]]]
 
-Use your colour palettes to set text and background colours.
+You can use your colour palettes to set text and background colours.
 
 [[[web-primary-secondary]]]
 
