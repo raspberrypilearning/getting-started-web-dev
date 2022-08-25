@@ -13,7 +13,7 @@
 [[[full-width-quote]]]
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Webpages can be viewed on many different devices and should be <span style="color: #0faeb0">**responsive**</span> to each device. This means that if a user views your site on a mobile phone, it should respond to a smaller screen and if they view it on a desktop PC it should respond to a larger screen. 
+Webpages can be viewed on many different devices and should be <span style="color: #0faeb0">**responsive**</span> to each device. This means that if a user views your site on a mobile phone, the webpage should respond to a smaller screen. If a user views it on a desktop PC, the webpage should respond to a larger screen. 
 </p>
 
 [[[using-rem]]]
@@ -34,7 +34,7 @@ CSS can also be used to responsively change the layout of the page.
 
 [[[three-text-tiles]]]
 
-Add more style to any elements on your webpage.
+You can add more style to any elements on your webpage.
 
 ![A strip of examples with gradients, dashed borders, and rounded corners.](images/borders-corners.png)
 
@@ -48,7 +48,7 @@ Add more style to any elements on your webpage.
 
 [[[add-a-gradient]]]
 
-Align and space your content to improve the look of your webpage.
+You can align and space your content to improve the look of your webpage.
 
 [[[web-x-y-centering]]]
 
