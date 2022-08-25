@@ -6,7 +6,7 @@ CSS is a language that is used along with HTML to control exactly how the elemen
 <span style="color: #0faeb0">**Cascading Style Sheets (CSS)**</span> describes exactly how a webpage should look. Without CSS, a webpage would look really boring. 
 </p>
 
-This project uses the `style.css` file to control how HTML elements are displayed and the `fiesta.css` file to provide colour and font choices.
+This project uses the `style.css` file to control how HTML elements are displayed and the `fiesta.css` file to provide colour and font choices:
 
 <iframe src="https://trinket.io/embed/html/6e3b537333" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
