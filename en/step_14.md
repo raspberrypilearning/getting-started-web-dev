@@ -14,7 +14,7 @@
 
 ### HTML
 
-+ The **Hypertext Markup Language (HTML)** language is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content
++ The **Hypertext Markup Language (HTML)** language is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content.
 
 + HTML uses **tags** to 'mark up' content so that a web browser or screen reader knows how to present it. Tags start and end with angle brackets and most have a matching end tag. For example, `<h1>` and `</h1>` tags are used to start and end a level one heading. 
 
