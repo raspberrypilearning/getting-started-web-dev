@@ -6,7 +6,7 @@ Colour palettes help you make a webpage look appealing with colours that work we
 
 [[[web-colour-palette-variables]]]
 
-Use or personalise the web development starter project colour palettes.
+You can use or personalise the web development starter project colour palettes.
 
 ![Examples of colour palettes in strips.](images/palette-examples.png)
 
