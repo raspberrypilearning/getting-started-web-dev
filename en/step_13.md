@@ -1,6 +1,6 @@
 ## Our web projects
 
-Our web paths have six projects to help you learn different web skills to create your own projects independently.
+Our 'Intro to web' path has six projects to help you learn different web skills to create your own projects independently.
 
 You can return to this reference guide, 'Getting started with web development', whenever you need to remind yourself of the skills you have learnt.
 
