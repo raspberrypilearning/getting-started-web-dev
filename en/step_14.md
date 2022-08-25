@@ -1,20 +1,20 @@
-## Vocabulary for Web Development
+## Vocabulary for web development
 
 ## Web development
 
-+ The **world wide web** or **web** is a vast collection of connected web pages. 
++ The **World Wide Web** or **web** is a vast collection of connected webpages. 
 
-+ A **web page** is a single page of content with a web address or universal resource locator (url). 
++ A **webpage** is a single page of content with a web address or Universal Resource Locator (URL). 
 
-+ A **web site** is a group of web pages with the same domain name.
++ A **website** is a group of webpages with the same domain name.
 
 + A **domain name** is the part of a web address after `http://` or `https://`, for example `projects.raspberrypi.org`.
 
-+ A **web developer** or **front end developer** is someone who creates websites using HTML, CSS and JavaScript. 
++ A **web developer** or **front-end developer** is someone who creates websites using HTML, CSS, and JavaScript. 
 
 ### HTML
 
-+ The **Hypertext Markup Language (HTML)** language is used to structure a web page so that a web browser (or screen reader) knows what to do with the content.
++ The **Hypertext Markup Language (HTML)** language is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content
 
 + HTML uses **tags** to 'mark up' content so that a web browser or screen reader knows how to present it. Tags start and end with angle brackets and most have a matching end tag. For example, `<h1>` and `</h1>` tags are used to start and end a level one heading. 
 
@@ -27,7 +27,7 @@
 
 ### CSS
 
-+ The **Cascading Style Sheets (CSS)** language  describes exactly how a web page should look.
++ The **Cascading Style Sheets (CSS)** language  describes exactly how a webpage should look.
 
 + A CSS file contains a list of **rules**. 
 
