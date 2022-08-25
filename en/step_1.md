@@ -6,7 +6,7 @@ This guide covers using HTML and CSS to develop webpages and is designed to be u
 <span style="color: #0faeb0">**Web development**</span> is the use of HTML, CSS, and JavaScript to create webpages and websites. It includes visual design, website layout, design for accessibility and usability, the creation of animation, and use of code to create interactive webpages. 
 </p>
 
-### Why learn web development?
+### Why learn about web development?
 
 Creating webpages and websites is a brilliant way for young people to be creative and share their passions. 
 
