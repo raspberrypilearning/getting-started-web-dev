@@ -16,7 +16,7 @@ You need to switch between these instructions and the editor.
 
 --- task ---
 
-Trinket opens the `index.html` page. 
+Trinket will open the `index.html` page. 
 
 Add the highlighted code:
 
