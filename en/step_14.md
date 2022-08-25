@@ -31,7 +31,7 @@
 
 + A CSS file contains a list of **rules**. 
 
-+ Each rule has a list of **properties** with values. For example `color: teal` sets the color property to the teal colour. 
++ Each rule has a list of **properties** with values. For example `color: teal` sets the colour property to the teal colour. 
 
 + Each rule has a **selector** which says which HTML elements to apply the rule to. This could be the name of an HTML element or `.classname` where 'classname' is the name of a class that can be applied to HTML elements to use the style. 
 
