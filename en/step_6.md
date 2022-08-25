@@ -18,7 +18,7 @@ Webpages can be viewed on many different devices and should be <span style="colo
 
 [[[using-rem]]]
 
-CSS can also be used to responsively change the layout of the page. 
+CSS can also be used to responsively change the layout of the page: 
 
 [[[side-by-side-section]]]
 
@@ -34,7 +34,7 @@ CSS can also be used to responsively change the layout of the page.
 
 [[[three-text-tiles]]]
 
-You can add more style to any elements on your webpage.
+You can add more style to any elements on your webpage:
 
 ![A strip of examples with gradients, dashed borders, and rounded corners.](images/borders-corners.png)
 
@@ -48,13 +48,13 @@ You can add more style to any elements on your webpage.
 
 [[[add-a-gradient]]]
 
-You can align and space your content to improve the look of your webpage.
+You can align and space your content to improve the look of your webpage:
 
 [[[web-x-y-centering]]]
 
 [[[padding-margins]]]
 
-You can create your own class to make a new style.
+You can create your own class to make a new style:
 
 [[[web-add-class]]]
 
