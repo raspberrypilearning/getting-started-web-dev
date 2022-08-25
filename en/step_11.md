@@ -2,7 +2,7 @@
 
 ### Collapse the code
 
-Your HTML file can get quite long which makes it hard to find the parts you need to work on. To make your code easier to read, you can collapse parts of it that you don’t need to focus on right now then expand them later.
+Your HTML file can get quite long which makes it hard to find the parts you need to work on. To make your code easier to read, you can collapse parts of it that you don’t need to focus on right now and then expand them later.
 
 Click on the small triangle next to any section of code you want to collapse. 
 
