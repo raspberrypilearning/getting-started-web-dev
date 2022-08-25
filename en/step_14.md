@@ -20,7 +20,7 @@
 
 + The different parts of an HTML page are called **elements** and include tags. `<h1>The Heading</h1>` is a level one heading element.
 
-+ HTML elements can have **attributes** which provide additional information. This example, `<img src="happy.png" alt="A happy face">` has a `src` attribute with a value for the image name and a `alt` attribute with a value for the alternative text to be used if an image cannot be viewed. 
++ HTML elements can have **attributes** which provide additional information. This example, `<img src="happy.png" alt="A happy face">` has a `src` attribute with a value for the image name and an `alt` attribute with a value for the alternative text to be used if an image cannot be viewed. 
 
 + Elements can be **inline** or **block** level elements. An **inline** element is an element that is within a phrase. For example `<strong>` creates a bold piece of text. A **block** element is a whole block of HTML, like a `<section>` or a `<blockquote>`.
 
