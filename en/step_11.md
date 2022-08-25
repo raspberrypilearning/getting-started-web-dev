@@ -8,13 +8,13 @@ Click on the small triangle next to any section of code you want to collapse.
 
 ### Use placeholder text
 
-Add placeholder text to your webpage to see what your layout looks like.
+You can add placeholder text to your webpage to see what your layout looks like:
 
 [[[add-placeholder-text]]]
 
 ### Comment your code
 
-You can add helpful comments to both your HTML and CSS files.
+You can add helpful comments to both your HTML and CSS files:
 
 [[[web-comment-code]]]
 
@@ -26,6 +26,6 @@ Where possible, view your published webpage on a number of different devices suc
 
 [[[trinket-publish-project]]]
 
-Run your webpage through an accessibility checker to make sure it can be viewed by people with disabilities.
+You can run your webpage through an accessibility checker to make sure it can be viewed by people with disabilities:
 
 [[[check-accessibility]]]
