@@ -1,6 +1,6 @@
 ## What is CSS?
 
-CSS is a language that is used along with HTML to control exactly how the elements on a webpage should look. This includes colours, positioning, and effects, such as rounded corners as well as transitions that can be used to create animation effects. 
+CSS is a language that is used along with HTML to control exactly how the elements on a webpage should look. This includes colours, positioning, and effects (such as rounded corners), as well as transitions that can be used to create animation effects. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Cascading Style Sheets (CSS)**</span> describes exactly how a webpage should look. Without CSS, a webpage would look really boring. 
