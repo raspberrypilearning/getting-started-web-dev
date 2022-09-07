@@ -1,8 +1,8 @@
 ## Add fonts and text elements
 
-Choose fonts to use on your web page:
+Choose fonts to use on your webpage.
 
-![An image showing all of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![All of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -14,9 +14,9 @@ You can use placeholder text while you work on your layout:
 
 [[[add-placeholder-text]]]
 
-Insert text elements:
+You can insert text elements:
 
-![An example strip containing an odered list, unordered list and quote.](images/list-quote-example.png)
+![An example strip containing an ordered list, an unordered list, and a quote.](images/list-quote-example.png)
 
 [[[web-ordered-list]]]
 
@@ -26,7 +26,7 @@ Insert text elements:
 
 [[[full-width-quote]]]
 
-Style your text:
+You can style your text:
 
 ![A list with bold text in different colours.](images/strong-example.png)
 
