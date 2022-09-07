@@ -1,22 +1,23 @@
 ---
 title: "Getting started with web development: HTML and CSS"
 hero_image: images/banner.png
-description: Getting started with web development using HTML and CSS. 
+description: Getting started with web development using HTML and CSS.
 version: 4
 listed: false
 copyedit: false
-last_tested: '2021-03-26'
+last_tested: "2021-03-26"
 steps:
-- title: Introduction
-- title: What is HTML?
-- title: What is CSS?
-- title: Create your first webpage
-- title: Use colour palettes
-- title: Structure your page
-- title: Add fonts and text elements
-- title: Insert images
-- title: Create animations
-- title: Debug your webpage
-- title: Useful tips
-- title: Share your webpage
-- title: Our web projects
+  - title: Introduction
+  - title: What is HTML?
+  - title: What is CSS?
+  - title: Create your first webpage
+  - title: Use colour palettes
+  - title: Structure your page
+  - title: Add fonts and text elements
+  - title: Insert images
+  - title: Create animations
+  - title: Debug your webpage
+  - title: Useful tips
+  - title: Share your webpage
+  - title: Our web projects
+  - title: Vocabulary for web development
