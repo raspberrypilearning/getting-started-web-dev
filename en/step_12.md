@@ -1,13 +1,9 @@
-## Share your webpage
+## Our web projects
 
-You can share your webpage so that it can receive visitors.
+Our 'Intro to web' path has six projects to help you learn different web skills to create your own projects independently.
 
-**Note:** Remember to check that you haven't included any personal information in your webpage.
+You can return to this reference guide, 'Getting started with web development', whenever you need to remind yourself of the skills you have learnt.
 
-[[[trinket-publish-project]]]
+### Beginner web projects
 
-[[[share-project]]]
-
-Inspire others with your project by submitting it to our [Web development community galleries](https://wakelet.com/@Introduction_to_Web){:target="_blank"}!
-
-To share your webpage with others, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} selecting the 'Introduction to web' path.
+The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path covers the development of single webpages using HTML and CSS. Future paths will cover more topics including using JavaScript to create dynamic webpages. 
