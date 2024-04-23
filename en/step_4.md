@@ -1,14 +1,12 @@
 ## Create your first webpage
 
-To prepare for facilitating this path, you can try to create your own webpage. The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses the Trinket online editor, so there is no software to install. 
-
-**Tip:** If you use Trinket in a school, a library, or another place that has internet filtering, then check you are able to access Trinket. See the [Trinket FAQs](https://trinket.io/faq){:target="_blank"} for more information. 
+To prepare for facilitating this path, you can try to create your own webpage. The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses the Code Editor, so there is no software to install. 
 
 In this step, you will add HTML and CSS using the same approach as in our web projects. 
 
 --- task ---
 
-Open this [starter project](https://trinket.io/library/trinkets/d048a9e878){:target="_blank"}. It will open in a separate browser tab.
+Open this [starter project](https://editor.raspberrypi.org/en/projects/gswd-starter){:target="_blank"}. It will open in a separate browser tab.
 
 You need to switch between these instructions and the editor. 
 
