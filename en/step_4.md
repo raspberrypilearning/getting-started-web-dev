@@ -14,7 +14,7 @@ You need to switch between these instructions and the editor.
 
 --- task ---
 
-Trinket will open the `index.html` page. 
+The Code Editor will open the `index.html` page. 
 
 Add the highlighted code:
 
@@ -36,11 +36,9 @@ line_highlights: 16
 
 --- /task ---
 
-Trinket automatically updates the webpage output. 
-
 --- task ---
 
-**Test:** Check that your title appears in the result area of Trinket. 
+**Test:** Click **Run** and check that your title appears in the result area of Trinket. 
 
 --- /task ---
 
