@@ -1,6 +1,6 @@
 ## Create animations
 
-Create web flip cards.
+Crée des cartes web à retourner .
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-3" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
