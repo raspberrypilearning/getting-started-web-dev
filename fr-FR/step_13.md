@@ -1,6 +1,6 @@
 ## Vocabulary for web development
 
-## Web development
+## Développement web
 
 - The **World Wide Web** or **web** is a vast collection of connected webpages.
 
