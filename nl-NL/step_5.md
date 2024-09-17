@@ -8,7 +8,7 @@ Colour palettes help you make a webpage look appealing with colours that work we
 
 You can use or personalise the web development starter project colour palettes:
 
-![Examples of colour palettes in strips.](images/palette-examples.png)
+![Voorbeelden van kleurenpaletten.](images/palette-examples.png)
 
 [[[hex-colour-palettes]]]
 
@@ -16,7 +16,7 @@ You can use or personalise the web development starter project colour palettes:
 
 You can create a colour palette from an image:
 
-![Examples of colour palettes from images.](images/image-palette.png)
+![Voorbeelden van kleurenpaletten uit afbeeldingen.](images/image-palette.png)
 
 [[[trinket-image-library]]]
 
