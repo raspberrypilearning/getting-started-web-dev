@@ -10,13 +10,13 @@ It’s easier to identify issues if you make one change at a time. It might take
 
 You might find some common bugs in your HTML or CSS that you need to fix. Here are some examples:
 
-**My webpage isn't displaying correctly**
+**Mijn webpagina wordt niet correct weergegeven**
 
 [[[incorrect-tags]]]
 
 [[[mismatched-tags]]]
 
-**Further debug questions**
+**Verdere debug vragen**
 
 [[[image-not-displayed]]]
 
@@ -24,8 +24,8 @@ You might find some common bugs in your HTML or CSS that you need to fix. Here a
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Je kunt een fout vinden die hier niet wordt vermeld. Can you figure out how to fix it?
 
 **Tip:** If you cannot find the problem after you have tried these techniques, then take a break or work on a different part of your project. When you come back, you might find the bug straight away!
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page to tell us about your project and let us know if you found a different bug.
+We horen graag over je fouten en hoe je ze hebt opgelost. Use the feedback button at the bottom of this page to tell us about your project and let us know if you found a different bug.
