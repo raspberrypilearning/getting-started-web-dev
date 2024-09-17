@@ -1,8 +1,8 @@
 ## Add fonts and text elements
 
-Choose fonts to use on your webpage.
+Kies lettertypen om te gebruiken op je webpagina.
 
-![All of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![All of the fonts available in the starter project. Elke lettertypetitel is geschreven met behulp van de lettertypestijl.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -28,7 +28,7 @@ You can insert text elements:
 
 You can style your text:
 
-![A list with bold text in different colours.](images/strong-example.png)
+![Een lijst met vetgedrukte tekst in verschillende kleuren.](images/strong-example.png)
 
 [[[web-headers-large-text]]]
 
