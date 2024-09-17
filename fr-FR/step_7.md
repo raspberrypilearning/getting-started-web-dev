@@ -1,8 +1,8 @@
 ## Add fonts and text elements
 
-Choose fonts to use on your webpage.
+Choisis les polices à utiliser sur ta page web.
 
-![All of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![All of the fonts available in the starter project. Chaque titre de police est écrit en utilisant le style de police.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -28,7 +28,7 @@ You can insert text elements:
 
 You can style your text:
 
-![A list with bold text in different colours.](images/strong-example.png)
+![Une liste avec du texte en gras dans différentes couleurs.](images/strong-example.png)
 
 [[[web-headers-large-text]]]
 
