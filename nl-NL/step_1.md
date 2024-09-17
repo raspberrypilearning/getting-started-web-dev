@@ -1,4 +1,4 @@
-## Introduction
+## Inleiding
 
 This guide covers using HTML and CSS to develop webpages and is designed to be used with our [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path of projects.
 
