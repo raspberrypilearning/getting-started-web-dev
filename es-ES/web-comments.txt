@@ -1,0 +1,13 @@
+Big title
+
+Title shown in web browsers
+
+Import fonts from Google
+
+Include CSS style file
+
+The page header code goes here
+
+The main content for the web page goes between the main tags
+
+Footer code goes here
