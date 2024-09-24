@@ -1,23 +1,23 @@
-## What is HTML?
+## Qu'est-ce que le HTML ?
 
-HTML is the language that is used to write webpages.
+HTML est le langage utilisé pour écrire des pages web.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Hypertext Markup Language (HTML)**</span> is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content. 
+<span style="color: #0faeb0">**Hypertext Markup Language (HTML)**</span> est utilisé pour structurer une page web de manière à ce qu'un navigateur web (ou un lecteur d'écran) sache ce qu'il doit faire avec le contenu. 
 </p>
 
-HTML defines a set of **tags** that start and end with angle brackets and are used to 'mark up' webpage content.
+HTML définit un ensemble de **balises** qui commencent et se terminent par des chevrons et sont utilisées pour « baliser » le contenu des pages web.
 
-This is a small example of a webpage:
+Voici un petit exemple de page web :
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-1" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
-Try to change the text between the `<h1>` and `</h1>` start and end tags ('h1' is the most important heading).
+Essaie de modifier le texte entre les balises de début et de fin `<h1>` et `</h1>` ('h1' est le titre le plus important).
 
-### Use of semantic HTML tags
+### Utiliser des balises HTML sémantiques
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses modern best practices for HTML including the use of the 'semantic' tags `<header>`, `<main>`, `<section>`, and `<footer>` which provide more information to web browsers and screen readers about the purpose of the content.
+Le parcours [Intro au web] (https://projects.raspberrypi.org/fr-FR/pathways/web-intro) utilise les meilleures pratiques modernes en matière de HTML, notamment l'utilisation des balises « sémantiques » `<header>`, `<main>`, `<section>` et `<footer>` qui fournissent davantage d'informations aux navigateurs web et aux lecteurs d'écran sur l'objectif du contenu.
 
-## Starter projects
+## Projets de démarrage
 
-Each project includes a starter template so that webpages will follow best practices and young people can focus on the more creative parts of web development.
+Chaque projet comprend un modèle de départ afin que les pages web suivent les meilleures pratiques et que les jeunes puissent se concentrer sur les parties les plus créatives du développement web.
