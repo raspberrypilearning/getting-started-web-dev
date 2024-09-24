@@ -1,30 +1,30 @@
-## Insert images
+## Afbeeldingen toevoegen
 
-![Examples of images and emojis in a strip.](images/image-emoji-strip.png)
+![Voorbeelden van afbeeldingen en emoji in een overzicht.](images/image-emoji-strip.png)
 
-You can insert an image from the starter project library:
+Je kunt een afbeelding uit de startprojectbibliotheek toevoegen:
 
 [[[trinket-image-library]]]
 
 [[[web-alt-text]]]
 
-You can use an emoji as an image:
+Je kunt een emoji als afbeelding gebruiken:
 
-![A patterned background image. The main section has a semi-transparent effect so that the image can be seen behind it.](images/background-image.png)
+![Een achtergrondafbeelding met een patroon. Het hoofdgedeelte heeft een semi-transparant effect, zodat de afbeelding erachter zichtbaar is.](images/background-image.png)
 
 [[[choose-an-emoji]]]
 
 [[[huge-emoji]]]
 
-You can add a background image:
+Je kunt een achtergrondafbeelding toevoegen:
 
 [[[web-background-image]]]
 
 [[[add-transparency]]]
 
-**Tip:** You can style your images with rounded corners or borders:
+**Tip:** Je kunt je afbeeldingen vormgeven met afgeronde hoeken of randen:
 
-![Examples of images with dashed or solid borders, drop shadow, and rounded corners.](images/image-borders.png)
+![Voorbeelden van afbeeldingen met stippellijnen of doorlopende randen, slagschaduw en afgeronde hoeken.](images/image-borders.png)
 
 [[[rounded-corners]]]
 
@@ -32,6 +32,6 @@ You can add a background image:
 
 [[[web-box-shadow]]]
 
-You can create your own class to make a new style:
+Je kunt je eigen klasse maken om een nieuwe stijl te maken:
 
 [[[web-add-class]]]
