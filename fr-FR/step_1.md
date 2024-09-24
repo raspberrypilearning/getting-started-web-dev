@@ -1,24 +1,24 @@
 ## Introduction
 
-This guide covers using HTML and CSS to develop webpages and is designed to be used with our [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path of projects.
+Ce guide couvre l'utilisation de HTML et CSS pour développer des pages web et est conçu pour être utilisé avec notre parcours de projets [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro).
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Web development**</span> is the use of HTML, CSS, and JavaScript to create webpages and websites. It includes visual design, website layout, design for accessibility and usability, the creation of animation, and use of code to create interactive webpages. 
+<span style="color: #0faeb0">Le développement web**</span> est l'utilisation de HTML, CSS et JavaScript pour créer des pages web et des sites web. Il comprend la conception visuelle, la mise en page du site web, la conception pour l'accessibilité et la convivialité, la création d'animations et l'utilisation du code pour créer des pages web interactives. 
 </p>
 
-### Why learn about web development?
+### Pourquoi apprendre le développement web ?
 
-Creating webpages and websites is a brilliant way for young people to be creative and share their passions.
+La création de pages web et de sites web est un excellent moyen pour les jeunes d'être créatifs et de partager leurs passions.
 
-Learning about web technologies is useful for a range of jobs, including web designers and front-end developers. It's also used by entrepreneurs who want to make their own unique website to communicate their business or brand.
+L'apprentissage des technologies web est utile pour toute une série d'emplois, notamment pour les concepteurs de sites web et les développeurs front-end. Il est également utilisé par les entrepreneurs qui souhaitent créer leur propre site web pour communiquer leur activité ou leur marque.
 
-### Introduction to web development path
+### Introduction au parcours développement web
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path covers the development of single webpages using HTML and CSS. Future paths will cover more topics, including using JavaScript to create dynamic webpages.
+Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) couvre le développement de pages web simples à l'aide de HTML et de CSS. Les prochains parcours couvriront d'autres sujets, notamment l'utilisation de JavaScript pour créer des pages web dynamiques.
 
-What young people should do before starting the 'Intro to web' path:
+Ce que les jeunes devraient faire avant de commencer le parcours « Intro au web » :
 
-- We recommend our [Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch) [paths](https://projects.raspberrypi.org/en/paths) for young creators without previous coding experience. Older beginners (from around age 12) could start with the web development path.
-- We recommend that all creators have basic typing skills before starting the web development path.
+- Nous recommandons nos [Parcours](https://projects.raspberrypi.org/fr-FR/projects/getting-started-scratch) [Scratch](https://projects.raspberrypi.org/fr-FR/paths) pour les jeunes créateurs qui n'ont pas d'expérience préalable en matière de codage. Les débutants plus âgés (à partir de 12 ans environ) peuvent commencer par le développement web.
+- Nous recommandons à tous les créateurs d'avoir des compétences de base en dactylographie avant de se lancer dans le développement d'un site web.
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path can be completed before starting Python coding with [Intro to Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro) or [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path.
+Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) peut être suivi avant de commencer à coder en Python avec le parcours [Intro à Raspberry Pi Pico](https://projects.raspberrypi.org/fr-FR/pathways/pico-intro) ou [Intro à Python](https://projects.raspberrypi.org/fr-FR/pathways/python-intro).
