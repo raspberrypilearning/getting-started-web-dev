@@ -1,8 +1,8 @@
-## Add fonts and text elements
+## Lettertypen en tekstelementen toevoegen
 
 Kies lettertypen om te gebruiken op je webpagina.
 
-![All of the fonts available in the starter project. Elke lettertypetitel is geschreven met behulp van de lettertypestijl.](images/font-examples.png)
+![Alle lettertypen die beschikbaar zijn in het startproject. Elke lettertypetitel is geschreven met behulp van de lettertypestijl.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -10,13 +10,13 @@ Kies lettertypen om te gebruiken op je webpagina.
 
 [[[google-fonts]]]
 
-You can use placeholder text while you work on your layout:
+Je kunt tijdelijke tekst gebruiken terwijl je aan jouw lay-out werkt:
 
 [[[add-placeholder-text]]]
 
-You can insert text elements:
+Je kunt tekstelementen invoegen:
 
-![An example strip containing an ordered list, an unordered list, and a quote.](images/list-quote-example.png)
+![Een voorbeeldstrook met een geordende lijst, een ongeordende lijst en een citaat.](images/list-quote-example.png)
 
 [[[web-ordered-list]]]
 
@@ -26,7 +26,7 @@ You can insert text elements:
 
 [[[full-width-quote]]]
 
-You can style your text:
+Je kunt je tekst opmaken:
 
 ![Een lijst met vetgedrukte tekst in verschillende kleuren.](images/strong-example.png)
 
@@ -38,6 +38,6 @@ You can style your text:
 
 [[[web-animate-span]]]
 
-You can create your own class to make a new style:
+Je kunt je eigen klasse maken om een nieuwe stijl te maken:
 
 [[[web-add-class]]]
