@@ -1,39 +1,39 @@
-## What is CSS?
+## Qu'est-ce que le CSS ?
 
-CSS is a language that is used along with HTML to control exactly how the elements on a webpage should look. This includes colours, positioning, and effects (such as rounded corners), as well as transitions that can be used to create animation effects.
+CSS est un langage utilisé avec HTML pour contrôler exactement l'apparence des éléments d'une page web. Cela comprend les couleurs, le positionnement et les effets (tels que les coins arrondis), ainsi que les transitions qui peuvent être utilisées pour créer des effets d'animation.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Cascading Style Sheets (CSS)**</span> décrit exactement à quoi devrait ressembler une page web. Sans CSS, une page web aurait l’air vraiment ennuyeuse. 
 </p>
 
-This project uses the `style.css` file to control how HTML elements are displayed and the `fiesta.css` file to provide colour and font choices:
+Ce projet utilise le fichier `style.css` pour contrôler l'affichage des éléments HTML et le fichier `fiesta.css` pour proposer des choix de couleurs et de polices :
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-2" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
-### Included style sheets
+### Feuilles de style incluses
 
-It's a lot of work to create a complete CSS style sheet with styles that work well together. Many web developers prefer to use an existing style sheet and just adapt it to their needs.
+C'est beaucoup de travail de créer une feuille de style CSS complète avec des styles qui fonctionnent bien ensemble. De nombreux développeurs web préfèrent utiliser une feuille de style existante et l'adapter simplement à leurs besoins.
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses a style sheet that follows best practices and includes styles that are interesting and relevant to young people creating their first web projects.
+Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) utilise une feuille de style qui respecte les meilleures pratiques et inclut des styles intéressants et pertinents pour les jeunes qui créent leurs premiers projets web.
 
-Creators have the opportunity to adapt and add to the provided styles. This approach helps them to create interesting webpages quickly.
+Les créateurs ont la possibilité d'adapter et de compléter les styles proposés. Cette approche leur permet de créer rapidement des pages web intéressantes.
 
-### Included colour and font palettes
+### Palettes de couleurs et de polices incluses
 
-Designing colour palettes and fonts that work well together is another time-consuming and skilled task. The three Explore projects include appropriate fonts and colour palettes that creators can customise.
+Concevoir des palettes de couleurs et des polices qui fonctionnent bien ensemble est une autre tâche qui demande du temps et des compétences. Les trois projets Explorer comprennent des polices de caractères et des palettes de couleurs appropriées que les créateurs peuvent personnaliser.
 
-For Design and Invent projects, we have provided a selection of colour palettes and font combinations that creators can choose from.
+Pour les projets Concevoir et Inventer, nous avons fourni une sélection de palettes de couleurs et de combinaisons de polices parmi lesquelles les créateurs peuvent choisir.
 
-Creators will also have the option to create their own colour palettes and choose fonts from Google Fonts.
+Les créateurs auront également la possibilité de créer leurs propres palettes de couleurs et de choisir des polices de caractères à partir de Google Fonts.
 
-### Use of variables
+### Utiliser des variables
 
-The style sheets use **CSS variables** to define colours and fonts so that they can easily be changed in one place.
+Les feuilles de style utilisent des **variables CSS** pour définir les couleurs et les polices afin qu'elles puissent être facilement modifiées en un seul endroit.
 
-### Responsive design
+### Conception réactive
 
-Responsive webpages and websites adapt to screens of different shapes and sizes including mobile phones. These projects follow modern best practices including the use of the REM unit for sizes (this means that sizes will be based on a user's preferred font size settings) and `flex` content, which wraps when there isn't enough space.
+Les pages web et les sites web réactifs s'adaptent aux écrans de différentes formes et tailles, y compris les téléphones mobiles. Ces projets respectent les meilleures pratiques modernes, notamment l'utilisation de l'unité REM pour les tailles (cela signifie que les tailles seront basées sur les paramètres de taille de police préférés de l'utilisateur) et le contenu « flexible », qui s'enroule lorsqu'il n'y a pas assez d'espace.
 
-### Accessible design
+### Conception accessible
 
-The included style sheets have all been checked for high colour contrast and creators are encouraged to check colour contrast when they make their own choices.
+Les feuilles de style incluses ont toutes été vérifiées pour assurer un contraste élevé des couleurs et les créateurs sont encouragés à vérifier le contraste des couleurs lorsqu'ils font leurs propres choix.
