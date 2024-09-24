@@ -1,25 +1,25 @@
-## Useful tips
+## Nuttige tips
 
-### Collapse the code
+### Code inklappen
 
-Your HTML file can get quite long which makes it hard to find the parts you need to work on. To make your code easier to read, you can collapse parts of it that you don’t need to focus on right now and then expand them later.
+Je HTML-bestand kan erg lang worden, waardoor het lastig kan zijn om de onderdelen te vinden waaraan je wil werken. Om je code leesbaarder te maken, kun je delen ervan inklappen waar je je nu niet op hoeft te concentreren om ze later weer uit te klappen.
 
-Click on the small triangle next to any section of code you want to collapse.
+Klik op het kleine driehoekje naast het codegedeelte dat je wil samenvouwen.
 
-### Use placeholder text
+### Gebruik tijdelijke tekst
 
-You can add placeholder text to your webpage to see what your layout looks like:
+Je kunt tijdelijke tekst aan jouw webpagina toevoegen om te zien hoe jouw lay-out eruitziet:
 
 [[[add-placeholder-text]]]
 
-### Comment your code
+### Voeg opmerkingen toe aan je code
 
-You can add helpful comments to both your HTML and CSS files:
+Je kunt nuttige opmerkingen toevoegen aan zowel je HTML als CSS bestanden:
 
 [[[web-comment-code]]]
 
-### Think about your audience
+### Denk aan je publiek
 
-Where possible, view your published webpage on a number of different devices such as a laptop, phone, or tablet to view your webpage from the lens of many different visitors.
+Bekijk je gepubliceerde webpagina indien mogelijk op verschillende apparaten, zoals een laptop, telefoon of tablet. Zo bekijk je je webpagina vanuit het perspectief van veel verschillende bezoekers.
 
-**Tip:** If you do not have access to other devices, you can drag the bar between the text editor and your webpage output to make the webpage wider or narrower.
+**Tip:** Als je geen toegang hebt tot andere apparaten, kun je de balk tussen de teksteditor en de uitvoer van jouw webpagina verslepen om de webpagina breder of smaller te maken.
