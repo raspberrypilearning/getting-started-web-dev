@@ -1,22 +1,22 @@
-## Create your first webpage
+## Maak je eerste webpagina
 
-To prepare for facilitating this path, you can try to create your own webpage. The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses the Code Editor, so there is no software to install.
+Om je voor te bereiden op dit pad, kun je proberen jouw eigen webpagina te maken. Het [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro)-pad maakt gebruik van de Code-Editor, dus er hoeft geen software te worden geïnstalleerd.
 
-In this step, you will add HTML and CSS using the same approach as in our web projects.
+In deze stap voeg je HTML en CSS toe met behulp van dezelfde aanpak als in onze webprojecten.
 
 \--- task ---
 
-Open this [starter project](https://editor.raspberrypi.org/en/projects/gswd-starter){:target="_blank"}. It will open in a separate browser tab.
+Open dit [startproject](https://editor.raspberrypi.org/en/projects/gswd-starter){:target="_blank"}. Het wordt geopend in een apart browsertabblad.
 
-You need to switch between these instructions and the editor.
+Je moet schakelen tussen deze instructies en de editor.
 
 \--- /task ---
 
 \--- task ---
 
-The Code Editor will open the `index.html` page.
+De Code-Editor opent de `index.html` pagina.
 
-Add the highlighted code:
+Voeg de gemarkeerde code toe:
 
 ## --- code ---
 
@@ -28,26 +28,26 @@ line_highlights: 16
 --------------------------------------------------------
 
 <body>
-    <h1>The heading</h1>
+    <h1>De kop</h1>
 </body>
 
 \--- /code ---
 
-**Notice:** The name of the file you need to edit is displayed and the line numbers and highlighted code show the changes you need to make.
+**Let op:** De naam van het bestand dat je gaat bewerken wordt weergegeven en de regelnummers en de gemarkeerde code tonen de wijzigingen die je moet maken.
 
 \--- /task ---
 
 \--- task ---
 
-**Test:** Click **Run** and check that your title appears in the result area of Trinket.
+**Test:** Klik **Run** en controleer of je titel verschijnt in het resultaatgebied van de Code-Editor.
 
 \--- /task ---
 
 \--- task ---
 
-Now click on the `style.css` file tab in the Trinket editor. The file is empty.
+Now click on the `style.css` file tab in the Code Editor. Het bestand is leeg.
 
-Add the following CSS **rule**:
+Voeg de volgende CSS **regel** toe:
 
 ## --- code ---
 
@@ -68,6 +68,6 @@ text-align: center;
 
 \--- task ---
 
-**Test:** Check that your heading has changed colour and is centred.
+**Test:** Controleer of de koptekst van kleur is veranderd en gecentreerd is.
 
 \--- /task ---
