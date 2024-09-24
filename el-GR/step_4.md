@@ -45,7 +45,7 @@ line_highlights: 16
 
 \--- task ---
 
-Now click on the `style.css` file tab in the Trinket editor. The file is empty.
+Now click on the `style.css` file tab in the Code Editor. The file is empty.
 
 Add the following CSS **rule**:
 
