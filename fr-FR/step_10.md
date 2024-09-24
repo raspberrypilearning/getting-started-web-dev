@@ -1,14 +1,14 @@
-## Debug your webpage
+## Déboguer ta page web
 
-Debugging is a process to find and fix mistakes in the code that are called bugs.
+Le débogage est un processus qui permet de trouver et de corriger les erreurs dans le code, appelées bogues.
 
-It’s easier to identify issues if you make one change at a time. It might take a few experiments for your project to look the way that you planned.
+Il est plus facile d'identifier les problèmes en procédant à un changement à la fois. Il faudra peut-être quelques expériences pour que ton projet ressemble à ce que tu avais prévu.
 
-**Tip:** Add comments to your code. Use everyday language to explain what the code does. Sometimes, this will make you realise that your code does not actually do what you want it to do! Comments are useful for when you want to understand your code later, and they help other people to understand your projects.
+**Astuce :** ajoute des commentaires à ton code. Utilise un langage courant pour expliquer ce que fait le code. Parfois, cela te fera réaliser que ton code ne fait pas réellement ce que tu veux qu'il fasse ! Les commentaires sont utiles lorsque tu souhaites comprendre ton code plus tard, et ils aident d'autres personnes à comprendre tes projets.
 
-### Common bugs
+### Bogues courants
 
-You might find some common bugs in your HTML or CSS that you need to fix. Here are some examples:
+Il se peut que tu trouves des bogues courants dans ton HTML ou ton CSS que tu dois corriger. Voici quelques exemples :
 
 **Ma page web ne s'affiche pas correctement**
 
@@ -24,8 +24,8 @@ You might find some common bugs in your HTML or CSS that you need to fix. Here a
 
 [[[web-debug-link]]]
 
-Tu pourrais trouver un bogue qui n'est pas répertorié ici. Can you figure out how to fix it?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver un moyen de le corriger ?
 
-**Tip:** If you cannot find the problem after you have tried these techniques, then take a break or work on a different part of your project. When you come back, you might find the bug straight away!
+**Astuce :** si tu ne parviens pas à trouver le problème après avoir essayé ces techniques, fais une pause ou travaille sur une autre partie de ton projet. À ton retour, tu pourrais trouver le bogue tout de suite !
 
-Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Use the feedback button at the bottom of this page to tell us about your project and let us know if you found a different bug.
+Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton Envoie un commentaire en bas de cette page pour nous parler de ton projet et nous faire savoir si tu as trouvé un autre bogue.
