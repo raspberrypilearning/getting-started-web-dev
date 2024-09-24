@@ -1,25 +1,25 @@
-## Useful tips
+## Conseils utiles
 
-### Collapse the code
+### Réduire le code
 
-Your HTML file can get quite long which makes it hard to find the parts you need to work on. To make your code easier to read, you can collapse parts of it that you don’t need to focus on right now and then expand them later.
+Ton fichier HTML peut devenir assez long, ce qui rend difficile la recherche des parties sur lesquelles tu dois travailler. Pour faciliter la lecture de ton code, tu peux en réduire les parties sur lesquelles tu n'as pas besoin de te concentrer pour l'instant et les développer plus tard.
 
-Click on the small triangle next to any section of code you want to collapse.
+Clique sur le petit triangle à côté d'une section du code que tu veux réduire.
 
-### Use placeholder text
+### Utiliser un texte de remplacement
 
-You can add placeholder text to your webpage to see what your layout looks like:
+Tu peux ajouter un texte fictif à ta page web pour voir à quoi ressemble ta mise en page :
 
 [[[add-placeholder-text]]]
 
-### Comment your code
+### Commenter ton code
 
-You can add helpful comments to both your HTML and CSS files:
+Tu peux ajouter des commentaires utiles à tes fichiers HTML et CSS :
 
 [[[web-comment-code]]]
 
-### Think about your audience
+### Pense à ton public
 
-Where possible, view your published webpage on a number of different devices such as a laptop, phone, or tablet to view your webpage from the lens of many different visitors.
+Dans la mesure du possible, consulte la page web que tu as publiée sur plusieurs appareils différents, comme un ordinateur portable, un téléphone ou une tablette, afin de voir ta page web sous l'angle de nombreux visiteurs différents.
 
-**Tip:** If you do not have access to other devices, you can drag the bar between the text editor and your webpage output to make the webpage wider or narrower.
+**Astuce :** si tu n'as pas accès à d'autres appareils, tu peux faire glisser la barre entre l'éditeur de texte et la sortie de ta page web pour rendre la page web plus large ou plus étroite.
