@@ -1,13 +1,13 @@
-Big title
+Grand titre
 
-Title shown in web browsers
+Titre affiché dans les navigateurs web
 
-Import fonts from Google
+Importer des polices depuis Google
 
-Include CSS style file
+Inclure le fichier de style CSS
 
-The page header code goes here
+Le code d'en-tête de la page va ici
 
-The main content for the web page goes between the main tags
+Le contenu principal de la page web se situe entre les balises principales
 
-Footer code goes here
+Le code de pied de page va ici
