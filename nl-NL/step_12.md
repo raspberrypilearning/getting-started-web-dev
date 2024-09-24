@@ -1,9 +1,9 @@
-## Our web projects
+## Onze webprojecten
 
-Our 'Intro to web' path has six projects to help you learn different web skills to create your own projects independently.
+Ons 'Inleiding tot web'-pad bestaat uit zes projecten waarmee je verschillende webvaardigheden leert, zodat je zelfstandig je eigen projecten kunt maken.
 
-You can return to this reference guide, 'Getting started with web development', whenever you need to remind yourself of the skills you have learnt.
+Je kunt terugkeren naar deze handleiding, 'Aan de slag met webontwikkeling', voor een overzicht van de vaardigheden die je hebt geleerd.
 
-### Beginner web projects
+### Webprojecten voor beginners
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path covers the development of single webpages using HTML and CSS. Future paths will cover more topics including using JavaScript to create dynamic webpages.
+Het pad [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) behandelt de ontwikkeling van afzonderlijke webpagina's met behulp van HTML en CSS. Toekomstige paden zullen nog meer onderwerpen behandelen waaronder het gebruik van JavaScript om dynamische webpagina's te maken.
