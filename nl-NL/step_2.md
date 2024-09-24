@@ -1,23 +1,23 @@
-## What is HTML?
+## Wat is HTML?
 
-HTML is the language that is used to write webpages.
+HTML is de taal die wordt gebruikt om webpagina's te schrijven.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Hypertext Markup Language (HTML)**</span> is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content. 
+<span style="color: #0faeb0">**Hypertext Markup Language (HTML)**</span> wordt gebruikt om een webpagina te structureren, zodat een webbrowser (of schermlezer) weet wat er met de inhoud moet gebeuren.
 </p>
 
-HTML defines a set of **tags** that start and end with angle brackets and are used to 'mark up' webpage content.
+HTML definieert een set **tags** die beginnen en eindigen met punthaken en die worden gebruikt om de inhoud van een webpagina te 'markeren'.
 
-This is a small example of a webpage:
+Dit is een klein voorbeeld van een webpagina:
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-1" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
-Try to change the text between the `<h1>` and `</h1>` start and end tags ('h1' is the most important heading).
+Probeer de tekst tussen de begin- en eindtags `<h1>` en `</h1>` te wijzigen ('h1' is de belangrijkste kop).
 
-### Use of semantic HTML tags
+### Gebruik van semantische HTML-tags
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses modern best practices for HTML including the use of the 'semantic' tags `<header>`, `<main>`, `<section>`, and `<footer>` which provide more information to web browsers and screen readers about the purpose of the content.
+Het pad [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) maakt gebruik van moderne best practices voor HTML, waaronder het gebruik van de 'semantische' tags `<header>`, `<main>`, `<section>` en `<footer>` die webbrowsers en schermlezers meer informatie geven over het doel van de inhoud.
 
-## Starter projects
+## Startprojecten
 
-Each project includes a starter template so that webpages will follow best practices and young people can focus on the more creative parts of web development.
+Elk project bevat een startsjabloon, zodat webpagina's de best practices volgen en jongeren zich kunnen richten op de creatievere aspecten van webontwikkeling.
