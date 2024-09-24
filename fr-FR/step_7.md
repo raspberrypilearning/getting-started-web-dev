@@ -1,4 +1,4 @@
-## Add fonts and text elements
+## Ajouter des polices et des éléments texte
 
 Choisis les polices à utiliser sur ta page web.
 
