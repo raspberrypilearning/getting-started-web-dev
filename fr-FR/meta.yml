@@ -1,7 +1,7 @@
 ---
-title: "Getting started with web development: HTML and CSS"
+title: "Débuter avec le développement web : HTML et CSS"
 hero_image: images/banner.png
-description: Getting started with web development using HTML and CSS.
+description: Débute avec le développement web en utilisant HTML et CSS.
 version: 4
 listed: false
 copyedit: false
@@ -10,26 +10,26 @@ steps:
   - 
     title: Introduction
   - 
-    title: What is HTML?
+    title: Qu'est-ce que le HTML ?
   - 
-    title: What is CSS?
+    title: Qu'est-ce que le CSS ?
   - 
     title: Create your first webpage
   - 
-    title: Use colour palettes
+    title: Utiliser des palettes de couleurs
   - 
     title: Structure your page
   - 
-    title: Add fonts and text elements
+    title: Ajouter des polices et des éléments texte
   - 
-    title: Insert images
+    title: Insérer des images
   - 
-    title: Create animations
+    title: Créer des animations
   - 
     title: Debug your webpage
   - 
-    title: Useful tips
+    title: Conseils utiles
   - 
-    title: Our web projects
+    title: Nos projets web
   - 
-    title: Vocabulary for web development
+    title: Vocabulaire du développement web
