@@ -1,4 +1,4 @@
-## Insert images
+## Insérer des images
 
 ![Examples of images and emojis in a strip.](images/image-emoji-strip.png)
 
