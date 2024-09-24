@@ -1,4 +1,4 @@
-## Create animations
+## Animaties maken
 
 Maak web flip cards.
 
@@ -6,7 +6,7 @@ Maak web flip cards.
 
 [[[web-flip-cards]]]
 
-You can use animations to change the appearance or position of elements on your page over time:
+Je kunt animaties gebruiken om het uiterlijk of de positie van elementen op je pagina na verloop van tijd te wijzigen:
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-4" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
@@ -16,6 +16,6 @@ You can use animations to change the appearance or position of elements on your 
 
 [[[web-animate-span]]]
 
-You can create your own class to make a new style:
+Je kunt je eigen klasse maken om een nieuwe stijl te maken:
 
 [[[web-add-class]]]
