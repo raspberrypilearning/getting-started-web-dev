@@ -1,39 +1,39 @@
-## What is CSS?
+## Wat is CSS?
 
-CSS is a language that is used along with HTML to control exactly how the elements on a webpage should look. This includes colours, positioning, and effects (such as rounded corners), as well as transitions that can be used to create animation effects.
+CSS is een taal die samen met HTML wordt gebruikt om te bepalen hoe de elementen op een webpagina er precies uit moeten zien. Dit omvat kleuren, positionering en effecten (zoals afgeronde hoeken), maar ook overgangen die kunnen worden gebruikt om animatie-effecten te creëren.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Cascading Style Sheets (CSS)**</span> beschrijft precies hoe een webpagina eruit moet zien. Zonder CSS zou een webpagina er heel saai uitzien. 
 </p>
 
-This project uses the `style.css` file to control how HTML elements are displayed and the `fiesta.css` file to provide colour and font choices:
+Dit project gebruikt het bestand `style.css` om te bepalen hoe HTML-elementen worden weergegeven en het bestand `fiesta.css` om kleur- en lettertypekeuzes te bieden:
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-2" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
-### Included style sheets
+### Style sheets die Inbegrepen zijn
 
-It's a lot of work to create a complete CSS style sheet with styles that work well together. Many web developers prefer to use an existing style sheet and just adapt it to their needs.
+Het is veel werk om een complete CSS sheet te maken met stijlen die goed samengaan. Veel webontwikkelaars geven er de voorkeur aan om een bestaande stylesheet te gebruiken en deze aan te passen aan hun behoeften.
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses a style sheet that follows best practices and includes styles that are interesting and relevant to young people creating their first web projects.
+Het pad [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) maakt gebruik van een stijlblad dat de beste werkwijzen volgt en stijlen bevat die interessant en relevant zijn voor jongeren die hun eerste webprojecten maken.
 
-Creators have the opportunity to adapt and add to the provided styles. This approach helps them to create interesting webpages quickly.
+Makers hebben de mogelijkheid om de aangeboden stijlen aan te passen en uit te breiden. Dankzij deze aanpak kunnen ze snel interessante webpagina's maken.
 
-### Included colour and font palettes
+### Kleuren- en lettertypepaletten die inbegrepen zijn
 
-Designing colour palettes and fonts that work well together is another time-consuming and skilled task. The three Explore projects include appropriate fonts and colour palettes that creators can customise.
+Het ontwerpen van kleurenpaletten en lettertypen die goed bij elkaar passen, is een andere tijdrovende taak die een bepaalde vaardigheid vraagt. De drie ontdek-projecten bevatten passende lettertypen en kleurenpaletten die makers kunnen bewerken.
 
-For Design and Invent projects, we have provided a selection of colour palettes and font combinations that creators can choose from.
+Voor Ontwerp en Uitvinden projecten hebben we een selectie van kleurenpaletten en lettertype combinaties aangeleverd waaruit makers kunnen kiezen.
 
-Creators will also have the option to create their own colour palettes and choose fonts from Google Fonts.
+Makers krijgen ook de mogelijkheid om hun eigen kleurenpaletten te maken en lettertypen te kiezen uit Google Fonts.
 
-### Use of variables
+### Gebruik van variabelen
 
-The style sheets use **CSS variables** to define colours and fonts so that they can easily be changed in one place.
+De style sheets gebruiken **CSS-variabelen** om kleuren en lettertypen te definiëren zodat ze gemakkelijk op één plek kunnen worden gewijzigd.
 
-### Responsive design
+### Responsief ontwerp
 
-Responsive webpages and websites adapt to screens of different shapes and sizes including mobile phones. These projects follow modern best practices including the use of the REM unit for sizes (this means that sizes will be based on a user's preferred font size settings) and `flex` content, which wraps when there isn't enough space.
+Responsieve webpagina's en websites passen zich aan op schermen van verschillende vormen en maten, waaronder mobiele telefoons. Deze projecten volgen moderne best practices, waaronder het gebruik van de REM-eenheid voor tekstgroottes (wat betekent dat de tekstgroottes worden gebaseerd op de door de gebruiker gewenste lettergrootte-instellingen) en `flex`-inhoud, die wordt afgebroken als er niet genoeg ruimte is.
 
-### Accessible design
+### Toegankelijk ontwerp
 
-The included style sheets have all been checked for high colour contrast and creators are encouraged to check colour contrast when they make their own choices.
+De meegeleverde style sheets zijn allemaal gecontroleerd op hoog kleurcontrast en makers wordt aangeraden om het kleurcontrast te controleren wanneer ze hun eigen keuzes maken.
