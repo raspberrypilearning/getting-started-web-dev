@@ -1,7 +1,7 @@
 ---
-title: "Getting started with web development: HTML and CSS"
+title: "Aan de slag met webontwikkeling: HTML en CSS"
 hero_image: images/banner.png
-description: Getting started with web development using HTML and CSS.
+description: Aan de slag met webontwikkeling met HTML en CSS.
 version: 4
 listed: false
 copyedit: false
@@ -10,26 +10,26 @@ steps:
   - 
     title: Inleiding
   - 
-    title: What is HTML?
+    title: Wat is HTML?
   - 
-    title: What is CSS?
+    title: Wat is CSS?
   - 
     title: Create your first webpage
   - 
-    title: Use colour palettes
+    title: Kleurenpaletten gebruiken
   - 
     title: Structure your page
   - 
-    title: Add fonts and text elements
+    title: Lettertypen en tekstelementen toevoegen
   - 
-    title: Insert images
+    title: Afbeeldingen toevoegen
   - 
-    title: Create animations
+    title: Animaties maken
   - 
     title: Debug your webpage
   - 
-    title: Useful tips
+    title: Nuttige tips
   - 
-    title: Our web projects
+    title: Onze webprojecten
   - 
-    title: Vocabulary for web development
+    title: Woordenlijst voor webontwikkeling
