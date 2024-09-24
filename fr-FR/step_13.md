@@ -1,43 +1,43 @@
-## Vocabulary for web development
+## Vocabulaire du développement web
 
 ## Développement web
 
-- The **World Wide Web** or **web** is a vast collection of connected webpages.
+- Le **World Wide Web** ou **web** est une vaste collection de pages web connectées entre elles.
 
-- A **webpage** is a single page of content with a web address or Universal Resource Locator (URL).
+- Une **page web** est une page unique de contenu dotée d'une adresse web ou d'un Universal Resource Locator (URL).
 
-- A **website** is a group of webpages with the same domain name.
+- Un **site web** est un groupe de pages web portant le même nom de domaine.
 
-- A **domain name** is the part of a web address after `http://` or `https://`, for example `projects.raspberrypi.org`.
+- Un **nom de domaine** est la partie d'une adresse web après `http://` ou `https://`, par exemple `projects.raspberrypi.org`.
 
-- A **web developer** or **front-end developer** is someone who creates websites using HTML, CSS, and JavaScript.
+- Un **développeur web** ou **développeur front-end** est une personne qui crée des sites web en utilisant HTML, CSS et JavaScript.
 
 ### HTML
 
-- The **Hypertext Markup Language (HTML)** language is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content.
+- Le langage **Hypertext Markup Language (HTML)** est utilisé pour structurer une page web de manière à ce qu'un navigateur web (ou un lecteur d'écran) sache ce qu'il doit faire avec le contenu.
 
-- HTML uses **tags** to 'mark up' content so that a web browser or screen reader knows how to present it. Tags start and end with angle brackets and most have a matching end tag. For example, `<h1>` and `</h1>` tags are used to start and end a level one heading.
+- Le langage HTML utilise des **balises** pour « baliser » le contenu afin qu'un navigateur web ou un lecteur d'écran sache comment le présenter. Les balises commencent et se terminent par des chevrons et la plupart d'entre elles ont une balise de fin correspondante. Par exemple, les balises `<h1>` et `</h1>` sont utilisées pour commencer et terminer un titre de niveau 1.
 
-- The different parts of an HTML page are called **elements** and include tags. `<h1>The Heading</h1>` is a level one heading element.
+- Les différentes parties d'une page HTML sont appelées **éléments** et comprennent des balises. `<h1>L'en-tête</h1>` est un élément d'en-tête de niveau 1.
 
-- HTML elements can have **attributes** which provide additional information. This example, `<img src="happy.png" alt="A happy face">` has a `src` attribute with a value for the image name and an `alt` attribute with a value for the alternative text to be used if an image cannot be viewed.
+- Les éléments HTML peuvent avoir des **attributs** qui fournissent des informations supplémentaires. Dans cet exemple, `<img src="happy.png" alt="A happy face">` a un attribut `src` avec une valeur pour le nom de l'image et un attribut `alt` avec une valeur pour le texte alternatif à utiliser si l'image ne peut pas être visualisée.
 
-- Elements can be **inline** or **block** level elements. An **inline** element is an element that is within a phrase. For example `<strong>` creates a bold piece of text. A **block** element is a whole block of HTML, like a `<section>` or a `<blockquote>`.
+- Les éléments peuvent être des éléments de niveau **inline** ou **block**. Un élément **inline** est un élément qui se trouve à l'intérieur d'une phrase. Par exemple, `<strong>` crée un texte en gras. Un élément **block** est un bloc entier de HTML, comme un `<section>` ou un `<blockquote>`.
 
 ### CSS
 
-- The **Cascading Style Sheets (CSS)** language  describes exactly how a webpage should look.
+- Le langage **Cascading Style Sheets (CSS)** décrit exactement l'apparence d'une page web.
 
-- A CSS file contains a list of **rules**.
+- Un fichier CSS contient une liste de **règles**.
 
-- Each rule has a list of **properties** with values. For example `color: teal` sets the colour property to the teal colour.
+- Chaque règle comporte une liste de **propriétés** avec des valeurs. Par exemple, `color: teal` attribue à la propriété colour la couleur teal.
 
-- Each rule has a **selector** which says which HTML elements to apply the rule to. This could be the name of an HTML element or `.classname` where 'classname' is the name of a class that can be applied to HTML elements to use the style.
+- Chaque règle possède un **sélecteur** qui indique à quels éléments HTML appliquer la règle. Il peut s'agir du nom d'un élément HTML ou de `.classname` où 'classname' est le nom d'une classe qui peut être appliquée aux éléments HTML pour utiliser le style.
 
-- A CSS **class** is used to apply rules to HTML elements that have that class applied. For example `<section class="primary">` applies the primary class to a section element which means that the properties defined in rules with the `.primary` selector will be used.
+- Une **classe** CSS est utilisée pour appliquer des règles aux éléments HTML auxquels cette classe est appliquée. Par exemple, `<section class="primary">` applique la classe primaire à un élément de section, ce qui signifie que les propriétés définies dans les règles avec le sélecteur `.primary` seront utilisées.
 
-- A CSS file is often called a **style sheet**.
+- Un fichier CSS est souvent appelé **feuille de style**.
 
-- CSS can use **variables** to hold data about things that can change, like the font and font colours. Using variables makes it much quicker to change the styling of a whole page because you just change what is being held by the variable.
+- CSS peut utiliser des **variables** pour contenir des données sur des éléments qui peuvent changer, comme la police et les couleurs de la police. L'utilisation de variables permet de modifier plus rapidement le style d'une page entière, car il suffit de changer ce qui est contenu dans la variable.
 
-- CSS allows you to create **animations**. This is where the style of an element changes from one style to another over a time period. Cool effects, like pulsing, can be made using CSS animations.
+- CSS permet de créer des **animations**. C'est le cas lorsque le style d'un élément passe d'un style à un autre au cours d'une période donnée. Des effets sympas, tels que des pulsations, peuvent être obtenus à l'aide d'animations CSS.
