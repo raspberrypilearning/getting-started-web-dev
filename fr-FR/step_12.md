@@ -1,9 +1,9 @@
-## Our web projects
+## Nos projets web
 
-Our 'Intro to web' path has six projects to help you learn different web skills to create your own projects independently.
+Notre parcours « Intro au web » comporte six projets pour t'aider à acquérir différentes compétences web afin de créer tes propres projets de manière autonome.
 
-You can return to this reference guide, 'Getting started with web development', whenever you need to remind yourself of the skills you have learnt.
+Tu peux revenir à ce guide de référence, « Débuter avec le développement web », chaque fois que tu as besoin de te rappeler les compétences que tu as acquises.
 
-### Beginner web projects
+### Projets web Débutant
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path covers the development of single webpages using HTML and CSS. Future paths will cover more topics including using JavaScript to create dynamic webpages.
+Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) couvre le développement de pages web simples à l'aide de HTML et de CSS. Les prochains parcours aborderont d'autres sujets, notamment l'utilisation de JavaScript pour créer des pages web dynamiques.
