@@ -13,7 +13,7 @@
 [[[full-width-quote]]]
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Les pages web peuvent être consultées sur de nombreux appareils différents et doivent être <span style="color: #0faeb0">**responsive**</span> pour chaque appareil. This means that if a user views your site on a mobile phone, the webpage should respond to a smaller screen. If a user views it on a desktop PC, the webpage should respond to a larger screen. 
+Les pages web peuvent être consultées sur de nombreux appareils différents et doivent être <span style="color: #0faeb0">**réactives**</span> pour chaque appareil. This means that if a user views your site on a mobile phone, the webpage should respond to a smaller screen. If a user views it on a desktop PC, the webpage should respond to a larger screen. 
 </p>
 
 [[[using-rem]]]
