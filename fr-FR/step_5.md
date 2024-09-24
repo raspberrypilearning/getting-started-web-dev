@@ -1,12 +1,12 @@
-## Use colour palettes
+## Utiliser des palettes de couleurs
 
-When you design a webpage, it is a good idea to use a colour palette.
+Lorsque tu conçois une page web, il est bon d'utiliser une palette de couleurs.
 
-Colour palettes help you make a webpage look appealing with colours that work well together.
+Les palettes de couleurs t'aident à rendre une page web attrayante grâce à des couleurs qui fonctionnent bien ensemble.
 
 [[[web-colour-palette-variables]]]
 
-You can use or personalise the web development starter project colour palettes:
+Tu peux utiliser ou personnaliser les palettes de couleurs du projet de démarrage développement web :
 
 ![Exemples de palettes de couleurs.](images/palette-examples.png)
 
