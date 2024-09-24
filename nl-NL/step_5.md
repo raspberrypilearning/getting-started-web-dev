@@ -1,12 +1,12 @@
-## Use colour palettes
+## Kleurenpaletten gebruiken
 
-When you design a webpage, it is a good idea to use a colour palette.
+Wanneer je een webpagina ontwerpt, is het een goed idee om een kleurenpalet te gebruiken.
 
-Colour palettes help you make a webpage look appealing with colours that work well together.
+Met kleurenpaletten kun je een webpagina aantrekkelijker maken met kleuren die goed bij elkaar passen.
 
 [[[web-colour-palette-variables]]]
 
-You can use or personalise the web development starter project colour palettes:
+Je kunt de kleurenpaletten van het webontwikkelingsstartproject gebruiken of personaliseren:
 
 ![Voorbeelden van kleurenpaletten.](images/palette-examples.png)
 
@@ -14,7 +14,7 @@ You can use or personalise the web development starter project colour palettes:
 
 [[[web-colour-palette]]]
 
-You can create a colour palette from an image:
+Je kunt een kleurenpalet maken van een afbeelding:
 
 ![Voorbeelden van kleurenpaletten uit afbeeldingen.](images/image-palette.png)
 
@@ -22,18 +22,18 @@ You can create a colour palette from an image:
 
 [[[colours-from-image]]]
 
-You can customise colour palettes for style and accessibility:
+Je kunt kleurenpaletten aanpassen voor stijl en toegankelijkheid:
 
-![Examples of one secondary palette with bad contrast and one with good contrast.](images/contrast-examples.png)
+![Voorbeelden van één secundair palet met slecht contrast en één met goed contrast.](images/contrast-examples.png)
 
 [[[contrast-checker]]]
 
 [[[add-colour-variables]]]
 
-You can use your colour palettes to set text and background colours:
+Je kunt je kleurenpaletten gebruiken om tekst- en achtergrondkleuren in te stellen:
 
 [[[web-primary-secondary]]]
 
-You can create your own class to make a new style:
+Je kunt je eigen klasse maken om een nieuwe stijl te maken:
 
 [[[web-add-class]]]
