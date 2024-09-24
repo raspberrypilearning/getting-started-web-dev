@@ -1,43 +1,43 @@
-## Vocabulary for web development
+## Woordenlijst voor webontwikkeling
 
-## Web development
+## Webontwikkeling
 
-- The **World Wide Web** or **web** is a vast collection of connected webpages.
+- Het **World Wide Web** of **web** is een grote verzameling van met elkaar verbonden webpagina's.
 
-- A **webpage** is a single page of content with a web address or Universal Resource Locator (URL).
+- Een **webpagina** is een enkele pagina met inhoud met een webadres of Universal Resource Locator (URL).
 
-- A **website** is a group of webpages with the same domain name.
+- Een **website** is een groep webpagina's met dezelfde domeinnaam.
 
-- A **domain name** is the part of a web address after `http://` or `https://`, for example `projects.raspberrypi.org`.
+- Een **domeinnaam** is het deel van een webadres na `http://` of `https://`, bijvoorbeeld `projects.raspberrypi.org`.
 
-- A **web developer** or **front-end developer** is someone who creates websites using HTML, CSS, and JavaScript.
+- Een **webontwikkelaar** of **front-end ontwikkelaar** is iemand die websites maakt met behulp van HTML, CSS en JavaScript.
 
 ### HTML
 
-- The **Hypertext Markup Language (HTML)** language is used to structure a webpage so that a web browser (or screen reader) knows what to do with the content.
+- De **Hypertext Markup Language (HTML)** taal wordt gebruikt om een webpagina zo te structureren dat een webbrowser (of schermlezer) weet wat er met de inhoud moet gebeuren.
 
-- HTML uses **tags** to 'mark up' content so that a web browser or screen reader knows how to present it. Tags start and end with angle brackets and most have a matching end tag. For example, `<h1>` and `</h1>` tags are used to start and end a level one heading.
+- HTML gebruikt **tags** om inhoud te 'markeren', zodat een webbrowser of schermlezer weet hoe de inhoud moet worden gepresenteerd. Tags beginnen en eindigen met punthaken en de meeste hebben een overeenkomende eindtag. De tags `<h1>` en `</h1>` worden bijvoorbeeld gebruikt om een kop op niveau 1 te beginnen en te beëindigen.
 
-- The different parts of an HTML page are called **elements** and include tags. `<h1>The Heading</h1>` is a level one heading element.
+- De verschillende onderdelen van een HTML-pagina worden **elementen** genoemd en bevatten tags. `<h1>De titel</h1>` is een level één koptekst element.
 
-- HTML elements can have **attributes** which provide additional information. This example, `<img src="happy.png" alt="A happy face">` has a `src` attribute with a value for the image name and an `alt` attribute with a value for the alternative text to be used if an image cannot be viewed.
+- HTML-elementen kunnen **attributen** hebben die aanvullende informatie verschaffen. Dit voorbeeld `<img src="happy.png" alt="A happy face">` heeft een `src` attribuut met een waarde voor de naam van de afbeelding en een `alt` attribuut met een waarde voor de alternatieve tekst als een afbeelding niet kan worden bekeken.
 
-- Elements can be **inline** or **block** level elements. An **inline** element is an element that is within a phrase. For example `<strong>` creates a bold piece of text. A **block** element is a whole block of HTML, like a `<section>` or a `<blockquote>`.
+- Elementen kunnen elementen op **inline** of **block** niveau zijn. Een **inline**-element is een element dat zich in een zin bevindt. Bijvoorbeeld `<strong>` creëert een vetgedrukt stuk tekst. Een **blok** element is een heel blok HTML, zoals een `<section>` of een `<blockquote>`.
 
 ### CSS
 
-- The **Cascading Style Sheets (CSS)** language  describes exactly how a webpage should look.
+- De **Cascading Style Sheets (CSS)** taal beschrijft precies hoe een webpagina eruit moet zien.
 
-- A CSS file contains a list of **rules**.
+- Een CSS-bestand bevat een lijst met **regels**.
 
-- Each rule has a list of **properties** with values. For example `color: teal` sets the colour property to the teal colour.
+- Elke regel heeft een lijst van **eigenschappen** met waarden. Bijvoorbeeld `color: teal` stelt de eigenschap kleur in op blauwgroen.
 
-- Each rule has a **selector** which says which HTML elements to apply the rule to. This could be the name of an HTML element or `.classname` where 'classname' is the name of a class that can be applied to HTML elements to use the style.
+- Elke regel heeft een **selector** die aangeeft op welke HTML-elementen de regel moet worden toegepast. Dit kan de naam zijn van een HTML-element of `. classname` waar 'classname' de naam is van een klasse die kan worden toegepast op HTML-elementen om de stijl te gebruiken.
 
-- A CSS **class** is used to apply rules to HTML elements that have that class applied. For example `<section class="primary">` applies the primary class to a section element which means that the properties defined in rules with the `.primary` selector will be used.
+- Een CSS **class** wordt gebruikt om regels toe te passen op HTML-elementen waarop die klasse is toegepast. Bijvoorbeeld `<section class="primary">` past de primary klasse toe op een sectie-element, wat betekent dat de eigenschappen die in regels met de selector `.primary` zijn gedefinieerd, worden gebruikt.
 
-- A CSS file is often called a **style sheet**.
+- Een CSS-bestand wordt vaak een **style sheet** genoemd.
 
-- CSS can use **variables** to hold data about things that can change, like the font and font colours. Using variables makes it much quicker to change the styling of a whole page because you just change what is being held by the variable.
+- CSS kan **variabelen** gebruiken om gegevens vast te leggen over zaken die kunnen veranderen, zoals het lettertype en de kleur van de letters. Door variabelen te gebruiken kun je de opmaak van een hele pagina veel sneller wijzigen, omdat je alleen de inhoud van de variabele wijzigt.
 
-- CSS allows you to create **animations**. This is where the style of an element changes from one style to another over a time period. Cool effects, like pulsing, can be made using CSS animations.
+- Met CSS kun je **animaties** aanmaken. Dit betekent dat de stijl van een element over een bepaalde tijdperiode van de ene stijl naar de andere verandert. Coole effecten, zoals knipperen, kunnen worden gemaakt met behulp van CSS-animaties.
