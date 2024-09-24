@@ -1,24 +1,24 @@
 ## Inleiding
 
-This guide covers using HTML and CSS to develop webpages and is designed to be used with our [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path of projects.
+Deze gids gaat over het gebruik van HTML en CSS voor het ontwikkelen van webpagina's en is bedoeld voor gebruik met ons [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) projectpad.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Web development**</span> is the use of HTML, CSS, and JavaScript to create webpages and websites. It includes visual design, website layout, design for accessibility and usability, the creation of animation, and use of code to create interactive webpages. 
+<span style="color: #0faeb0">**Webontwikkeling**</span> is het gebruik van HTML, CSS en JavaScript om webpagina's en websites te maken. Het omvat visueel ontwerp, website lay-out, ontwerp voor toegankelijkheid en bruikbaarheid, het maken van animatie en het gebruik van code om interactieve webpagina's te maken. 
 </p>
 
-### Why learn about web development?
+### Waarom webontwikkeling leren?
 
-Creating webpages and websites is a brilliant way for young people to be creative and share their passions.
+Het maken van webpagina's en websites is een geweldige manier voor jongeren om creatief bezig te zijn en hun passies te delen.
 
-Learning about web technologies is useful for a range of jobs, including web designers and front-end developers. It's also used by entrepreneurs who want to make their own unique website to communicate their business or brand.
+Leren over webtechnologieën is handig voor een scala aan banen, waaronder webdesigners en front-end ontwikkelaars. Het wordt ook gebruikt door ondernemers die hun eigen unieke website willen maken om over hun bedrijf of merk te communiceren.
 
-### Introduction to web development path
+### Inleiding tot het webontwikkelingspad
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path covers the development of single webpages using HTML and CSS. Future paths will cover more topics, including using JavaScript to create dynamic webpages.
+Het pad [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) behandelt de ontwikkeling van afzonderlijke webpagina's met behulp van HTML en CSS. Toekomstige paden zullen nog meer onderwerpen behandelen, waaronder het gebruik van JavaScript om dynamische webpagina's te maken.
 
-What young people should do before starting the 'Intro to web' path:
+Wat jongeren moeten doen voordat ze aan het traject 'Inleiding tot web' beginnen:
 
-- We recommend our [Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch) [paths](https://projects.raspberrypi.org/en/paths) for young creators without previous coding experience. Older beginners (from around age 12) could start with the web development path.
-- We recommend that all creators have basic typing skills before starting the web development path.
+- Wij raden onze [Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch) [paden](https://projects.raspberrypi.org/en/paths) aan voor jonge makers zonder eerdere programmeerervaring. Oudere beginners (vanaf ongeveer 12 jaar) kunnen meteen beginnen met het webontwikkelingstraject.
+- Wij raden alle makers aan om over typbasisvaardigheden ite beschikken voordat ze beginnen met webontwikkeling.
 
-The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path can be completed before starting Python coding with [Intro to Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro) or [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path.
+Het pad [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) kan worden voltooid voordat je Python programmeert met [Inleiding tot Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro) of [Inleiding tot Python](https://projects.raspberrypi.org/en/pathways/python-intro).
