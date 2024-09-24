@@ -1,22 +1,22 @@
-## Create your first webpage
+## Créer ta première page web
 
-To prepare for facilitating this path, you can try to create your own webpage. The [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path uses the Code Editor, so there is no software to install.
+Pour te préparer à faciliter ce parcours, tu peux essayer de créer ta propre page web. Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) utilise le Code Editor, il n'y a donc pas de logiciel à installer.
 
-In this step, you will add HTML and CSS using the same approach as in our web projects.
+Dans cette étape, tu ajouteras du HTML et du CSS en utilisant la même approche que dans nos projets web.
 
 \--- task ---
 
-Open this [starter project](https://editor.raspberrypi.org/en/projects/gswd-starter){:target="_blank"}. It will open in a separate browser tab.
+Ouvre ce [projet de démarrage](https://editor.raspberrypi.org/fr-FR/projects/gswd-starter){:target="_blank"}. Il s'ouvrira dans un autre onglet du navigateur.
 
-You need to switch between these instructions and the editor.
+Tu dois passer de ces instructions à l'éditeur.
 
 \--- /task ---
 
 \--- task ---
 
-The Code Editor will open the `index.html` page.
+Le Code Editor ouvre la page `index.html`.
 
-Add the highlighted code:
+Ajoute le code en surbrillance :
 
 ## --- code ---
 
@@ -28,26 +28,26 @@ line_highlights: 16
 --------------------------------------------------------
 
 <body>
-    <h1>The heading</h1>
+    <h1>Le titre</h1>
 </body>
 
 \--- /code ---
 
-**Notice:** The name of the file you need to edit is displayed and the line numbers and highlighted code show the changes you need to make.
+\*\*Remarque :\*\*le nom du fichier que tu dois modifier s'affiche et les numéros de ligne ainsi que le code surligné indiquent les modifications que tu dois apporter.
 
 \--- /task ---
 
 \--- task ---
 
-**Test:** Click **Run** and check that your title appears in the result area of Trinket.
+**Test :** clique sur **Run** et vérifie que ton titre apparaît dans la zone de résultat de Trinket.
 
 \--- /task ---
 
 \--- task ---
 
-Now click on the `style.css` file tab in the Trinket editor. The file is empty.
+Now click on the `style.css` file tab in the Code Editor. Le fichier est vide.
 
-Add the following CSS **rule**:
+Ajoute la \*_règle_ CSS suivante :
 
 ## --- code ---
 
@@ -68,6 +68,6 @@ text-align: center;
 
 \--- task ---
 
-**Test:** Check that your heading has changed colour and is centred.
+**Test :** vérifie que ton titre a changé de couleur et qu'il est centré.
 
 \--- /task ---
