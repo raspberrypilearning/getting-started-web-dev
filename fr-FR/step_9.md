@@ -1,4 +1,4 @@
-## Create animations
+## Créer des animations
 
 Crée des cartes web à retourner.
 
