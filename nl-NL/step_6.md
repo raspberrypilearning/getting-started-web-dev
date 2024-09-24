@@ -1,24 +1,24 @@
-## Structure your page
+## Structureer je pagina
 
-![A labelled image of a webpage. A '1' is placed over the header area at the top. A '2' is placed to show the main content of the page. A '3' is placed to show a section of content. A '4' is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
+![Een gelabelde afbeelding van een webpagina. Een '1' is boven het koptekstgebied aan de bovenkant geplaatst. Een '2' is geplaatst om de belangrijkste inhoud van de pagina te tonen. Een '3' is geplaatst om een gedeelte van de inhoud weer te geven. Een '4' is geplaatst om de voettekst onderaan de pagina te tonen.](images/structure-diagram.png)
 
 [[[web-add-title-head]]]
 
 [[[overall-page-structure]]]
 
-![A strip of three images showing different sets of three sections and different colour palettes.](images/example-layouts.png)
+![Een strook met drie afbeeldingen die verschillende sets van drie secties en verschillende kleurenpaletten laten zien.](images/example-layouts.png)
 
 [[[full-width-section]]]
 
 [[[full-width-quote]]]
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Webpagina's kunnen op veel verschillende apparaten worden bekeken en moeten <span style="color: #0faeb0">**responsive**</span> zijn voor elk apparaat. This means that if a user views your site on a mobile phone, the webpage should respond to a smaller screen. If a user views it on a desktop PC, the webpage should respond to a larger screen. 
+Webpagina's kunnen op veel verschillende apparaten worden bekeken en moeten <span style="color: #0faeb0">**responsief**</span> zijn voor elk apparaat. Dit betekent dat als een gebruiker jouw site op een mobiele telefoon bekijkt, de webpagina moet reageren op een kleiner scherm. Als een gebruiker het op een desktop-PC bekijkt, moet de webpagina op een groter scherm reageren. 
 </p>
 
 [[[using-rem]]]
 
-CSS can also be used to responsively change the layout of the page:
+CSS kan ook worden gebruikt om op responsieve wijze de lay-out van de pagina te veranderen:
 
 [[[side-by-side-section]]]
 
@@ -34,7 +34,7 @@ CSS can also be used to responsively change the layout of the page:
 
 [[[three-text-tiles]]]
 
-You can add more style to any elements on your webpage:
+Je kunt meer stijl toevoegen aan alle elementen op je webpagina:
 
 ![Een reeks voorbeelden met kleurverlopen, stippellijnen en afgeronde hoeken.](images/borders-corners.png)
 
@@ -48,12 +48,12 @@ You can add more style to any elements on your webpage:
 
 [[[add-a-gradient]]]
 
-You can align and space your content to improve the look of your webpage:
+Je kunt je inhoud uitlijnen en meer ruimte geven om het uiterlijk van jouw webpagina te verbeteren:
 
 [[[web-x-y-centering]]]
 
 [[[padding-margins]]]
 
-You can create your own class to make a new style:
+Je kunt je eigen klasse maken om een nieuwe stijl te maken:
 
 [[[web-add-class]]]
