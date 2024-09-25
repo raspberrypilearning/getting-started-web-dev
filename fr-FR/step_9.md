@@ -6,7 +6,7 @@ Crée des cartes web à retourner.
 
 [[[web-flip-cards]]]
 
-You can use animations to change the appearance or position of elements on your page over time:
+Tu peux utiliser des animations pour modifier l'apparence ou la position des éléments de ta page au fil du temps :
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/gswd-example-4" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
@@ -16,6 +16,6 @@ You can use animations to change the appearance or position of elements on your 
 
 [[[web-animate-span]]]
 
-You can create your own class to make a new style:
+Tu peux créer ta propre classe pour créer un nouveau style :
 
 [[[web-add-class]]]
