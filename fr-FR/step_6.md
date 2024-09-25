@@ -1,24 +1,24 @@
-## Structure your page
+## Structurer ta page
 
-![A labelled image of a webpage. A '1' is placed over the header area at the top. A '2' is placed to show the main content of the page. A '3' is placed to show a section of content. A '4' is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
+![Une image étiquetée d'une page web. Un « 1 » est placé en haut de la zone d'en-tête. Un « 2 » est placé pour montrer le contenu principal de la page. Un « 3 » est placé pour montrer une section du contenu. Un « 4 » est placé pour montrer le pied de page au bas de la page.](images/structure-diagram.png)
 
 [[[web-add-title-head]]]
 
 [[[overall-page-structure]]]
 
-![A strip of three images showing different sets of three sections and different colour palettes.](images/example-layouts.png)
+![Une bande de trois images montrant différents ensembles de trois sections et différentes palettes de couleurs.](images/example-layouts.png)
 
 [[[full-width-section]]]
 
 [[[full-width-quote]]]
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Les pages web peuvent être consultées sur de nombreux appareils différents et doivent être <span style="color: #0faeb0">**réactives**</span> pour chaque appareil. This means that if a user views your site on a mobile phone, the webpage should respond to a smaller screen. If a user views it on a desktop PC, the webpage should respond to a larger screen. 
+Les pages web peuvent être consultées sur de nombreux appareils différents et doivent être <span style="color: #0faeb0">**réactives**</span> pour chaque appareil. Cela signifie que si un utilisateur consulte ton site sur un téléphone portable, la page web doit s'adapter à un écran plus petit. Si un utilisateur la consulte sur un ordinateur de bureau, la page web doit s'adapter à un écran plus grand. 
 </p>
 
 [[[using-rem]]]
 
-CSS can also be used to responsively change the layout of the page:
+CSS peut également être utilisé pour modifier de manière réactive la mise en page de la page :
 
 [[[side-by-side-section]]]
 
@@ -34,7 +34,7 @@ CSS can also be used to responsively change the layout of the page:
 
 [[[three-text-tiles]]]
 
-You can add more style to any elements on your webpage:
+Tu peux donner plus de style à n'importe quel élément de ta page web :
 
 ![Une bande d'exemples avec des dégradés, des bordures en pointillés et des coins arrondis.](images/borders-corners.png)
 
@@ -48,12 +48,12 @@ You can add more style to any elements on your webpage:
 
 [[[add-a-gradient]]]
 
-You can align and space your content to improve the look of your webpage:
+Tu peux aligner et espacer ton contenu pour améliorer l'apparence de ta page web :
 
 [[[web-x-y-centering]]]
 
 [[[padding-margins]]]
 
-You can create your own class to make a new style:
+Tu peux créer ta propre classe pour créer un nouveau style :
 
 [[[web-add-class]]]
