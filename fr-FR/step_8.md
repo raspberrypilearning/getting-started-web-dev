@@ -1,30 +1,30 @@
 ## Insérer des images
 
-![Examples of images and emojis in a strip.](images/image-emoji-strip.png)
+![Exemples d'images et d'emojis dans une bande.](images/image-emoji-strip.png)
 
-You can insert an image from the starter project library:
+Tu peux insérer une image de la bibliothèque du projet de démarrage :
 
 [[[trinket-image-library]]]
 
 [[[web-alt-text]]]
 
-You can use an emoji as an image:
+Tu peux utiliser un emoji comme image :
 
-![A patterned background image. The main section has a semi-transparent effect so that the image can be seen behind it.](images/background-image.png)
+![Une image d'arrière-plan à motifs. La partie principale est semi-transparente, ce qui permet de voir l'image en arrière-plan.](images/background-image.png)
 
 [[[choose-an-emoji]]]
 
 [[[huge-emoji]]]
 
-You can add a background image:
+Tu peux ajouter une image d'arrière-plan :
 
 [[[web-background-image]]]
 
 [[[add-transparency]]]
 
-**Tip:** You can style your images with rounded corners or borders:
+**Astuce :** tu peux styliser tes images avec des coins ou des bordures arrondis :
 
-![Examples of images with dashed or solid borders, drop shadow, and rounded corners.](images/image-borders.png)
+![Exemples d'images avec des bordures en pointillés ou pleines, des ombres portées et des coins arrondis.](images/image-borders.png)
 
 [[[rounded-corners]]]
 
@@ -32,6 +32,6 @@ You can add a background image:
 
 [[[web-box-shadow]]]
 
-You can create your own class to make a new style:
+Tu peux créer ta propre classe pour créer un nouveau style :
 
 [[[web-add-class]]]
