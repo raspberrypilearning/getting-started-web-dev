@@ -45,7 +45,7 @@ line_highlights: 16
 
 \--- task ---
 
-Now click on the `style.css` file tab in the Code Editor. Het bestand is leeg.
+Klik nu op het tabblad `style.css` in de Code-Editor. Het bestand is leeg.
 
 Voeg de volgende CSS **regel** toe:
 
