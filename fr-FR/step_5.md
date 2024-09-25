@@ -14,7 +14,7 @@ Tu peux utiliser ou personnaliser les palettes de couleurs du projet de démarra
 
 [[[web-colour-palette]]]
 
-You can create a colour palette from an image:
+Tu peux créer une palette de couleurs à partir d'une image :
 
 ![Exemples de palettes de couleurs à partir d'images.](images/image-palette.png)
 
@@ -22,18 +22,18 @@ You can create a colour palette from an image:
 
 [[[colours-from-image]]]
 
-You can customise colour palettes for style and accessibility:
+Tu peux personnaliser les palettes de couleurs pour le style et l'accessibilité :
 
-![Examples of one secondary palette with bad contrast and one with good contrast.](images/contrast-examples.png)
+![Exemples d'une palette secondaire mal contrastée et d'une palette secondaire bien contrastée.](images/contrast-examples.png)
 
 [[[contrast-checker]]]
 
 [[[add-colour-variables]]]
 
-You can use your colour palettes to set text and background colours:
+Tu peux utiliser tes palettes de couleurs pour définir les couleurs du texte et de l'arrière-plan :
 
 [[[web-primary-secondary]]]
 
-You can create your own class to make a new style:
+Tu peux créer ta propre classe pour créer un nouveau style :
 
 [[[web-add-class]]]
