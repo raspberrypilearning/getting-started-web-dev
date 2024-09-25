@@ -2,7 +2,7 @@
 
 Choisis les polices à utiliser sur ta page web.
 
-![All of the fonts available in the starter project. Chaque titre de police est écrit en utilisant le style de police.](images/font-examples.png)
+![Toutes les polices disponibles dans le projet de démarrage. Chaque titre de police est écrit en utilisant le style de police.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -10,13 +10,13 @@ Choisis les polices à utiliser sur ta page web.
 
 [[[google-fonts]]]
 
-You can use placeholder text while you work on your layout:
+Tu peux utiliser un texte de remplacement pendant que tu travailles sur ta mise en page :
 
 [[[add-placeholder-text]]]
 
-You can insert text elements:
+Tu peux insérer des éléments texte :
 
-![An example strip containing an ordered list, an unordered list, and a quote.](images/list-quote-example.png)
+![Un exemple de bande contenant une liste ordonnée, une liste non ordonnée et une citation.](images/list-quote-example.png)
 
 [[[web-ordered-list]]]
 
@@ -26,7 +26,7 @@ You can insert text elements:
 
 [[[full-width-quote]]]
 
-You can style your text:
+Tu peux donner un style à ton texte :
 
 ![Une liste avec du texte en gras dans différentes couleurs.](images/strong-example.png)
 
@@ -38,6 +38,6 @@ You can style your text:
 
 [[[web-animate-span]]]
 
-You can create your own class to make a new style:
+Tu peux créer ta propre classe pour créer un nouveau style :
 
 [[[web-add-class]]]
