@@ -1,0 +1,13 @@
+Grand titre
+
+Titre affiché dans les navigateurs web
+
+Importer des polices depuis Google
+
+Inclure le fichier de style CSS
+
+Le code d'en-tête de la page va ici
+
+Le contenu principal de la page web se situe entre les balises principales
+
+Le code de pied de page va ici
