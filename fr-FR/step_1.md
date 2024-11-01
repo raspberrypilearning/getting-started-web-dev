@@ -3,7 +3,7 @@
 Ce guide couvre l'utilisation de HTML et CSS pour développer des pages web et est conçu pour être utilisé avec notre parcours de projets [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro).
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Le développement web**</span> est l'utilisation de HTML, CSS et JavaScript pour créer des pages web et des sites web. Il comprend la conception visuelle, la mise en page du site web, la conception pour l'accessibilité et la convivialité, la création d'animations et l'utilisation du code pour créer des pages web interactives. 
+<span style="color: #0faeb0">**Le développement web**</span> est l'utilisation de HTML, CSS et JavaScript pour créer des pages web et des sites web. Il comprend la conception visuelle, la mise en page du site web, la conception pour l'accessibilité et la convivialité, la création d'animations et l'utilisation du code pour créer des pages web interactives. 
 </p>
 
 ### Pourquoi apprendre le développement web ?
