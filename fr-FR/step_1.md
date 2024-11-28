@@ -18,7 +18,7 @@ Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-i
 
 Ce que les jeunes devraient faire avant de commencer le parcours « Intro au web » :
 
-- Nous recommandons nos [Parcours](https://projects.raspberrypi.org/fr-FR/projects/getting-started-scratch) [Scratch](https://projects.raspberrypi.org/fr-FR/paths) pour les jeunes créateurs qui n'ont pas d'expérience préalable en matière de codage. Les débutants plus âgés (à partir de 12 ans environ) peuvent commencer par le développement web.
+- Nous recommandons nos [Parcours](https://projects.raspberrypi.org/fr-FR/paths) [Scratch](https://projects.raspberrypi.org/fr-FR/projects/getting-started-scratch) pour les jeunes créateurs qui n'ont pas d'expérience préalable en matière de codage. Les débutants plus âgés (à partir de 12 ans environ) peuvent commencer par le développement web.
 - Nous recommandons à tous les créateurs d'avoir des compétences de base en dactylographie avant de se lancer dans le développement d'un site web.
 
 Le parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) peut être suivi avant de commencer à coder en Python avec le parcours [Intro à Raspberry Pi Pico](https://projects.raspberrypi.org/fr-FR/pathways/pico-intro) ou [Intro à Python](https://projects.raspberrypi.org/fr-FR/pathways/python-intro).
