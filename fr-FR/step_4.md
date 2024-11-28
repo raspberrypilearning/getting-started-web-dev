@@ -45,7 +45,7 @@ line_highlights: 16
 
 \--- task ---
 
-Now click on the `style.css` file tab in the Code Editor. Le fichier est vide.
+Clique maintenant sur l'onglet du fichier `style.css` dans le Code Editor. Le fichier est vide.
 
 Ajoute la \*_règle_ CSS suivante :
 
