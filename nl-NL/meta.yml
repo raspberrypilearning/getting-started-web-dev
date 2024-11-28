@@ -1,0 +1,35 @@
+---
+title: "Aan de slag met webontwikkeling: HTML en CSS"
+hero_image: images/banner.png
+description: Aan de slag met webontwikkeling met HTML en CSS.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - 
+    title: Inleiding
+  - 
+    title: Wat is HTML?
+  - 
+    title: Wat is CSS?
+  - 
+    title: Create your first webpage
+  - 
+    title: Kleurenpaletten gebruiken
+  - 
+    title: Structure your page
+  - 
+    title: Lettertypen en tekstelementen toevoegen
+  - 
+    title: Afbeeldingen toevoegen
+  - 
+    title: Animaties maken
+  - 
+    title: Debug your webpage
+  - 
+    title: Nuttige tips
+  - 
+    title: Onze webprojecten
+  - 
+    title: Woordenlijst voor webontwikkeling

@@ -1,0 +1,35 @@
+---
+title: "Débuter avec le développement web : HTML et CSS"
+hero_image: images/banner.png
+description: Débute avec le développement web en utilisant HTML et CSS.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Qu'est-ce que le HTML ?
+  - 
+    title: Qu'est-ce que le CSS ?
+  - 
+    title: Create your first webpage
+  - 
+    title: Utiliser des palettes de couleurs
+  - 
+    title: Structure your page
+  - 
+    title: Ajouter des polices et des éléments texte
+  - 
+    title: Insérer des images
+  - 
+    title: Créer des animations
+  - 
+    title: Debug your webpage
+  - 
+    title: Conseils utiles
+  - 
+    title: Nos projets web
+  - 
+    title: Vocabulaire du développement web
